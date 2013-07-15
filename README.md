@@ -2,13 +2,9 @@ Modelling Local Authorities Using the Family Resources Survey
 =============================================================
 July 2013
 
-This is a little piece of code put together as part of an unsuccessful project
-bid (such is life..) Hopefully, someone will find it useful (perhaps even the
-people who won the bid..).
-
-It takes an FRS dataset and produces sample weights that makes the dataset (or a
-subset of it) match 2011 Census data for each local authority in England and
-Wales. So in principle you can treat the whole FRS sample as if it came from
+This little piece of code takes an FRS dataset and produces sample weights that 
+makes the dataset (or a subset of it) match 2011 Census data for each local authority 
+in England and Wales. So in principle you can treat the whole FRS sample as if it came from
 that Local Authority. The weight generator uses a technique described in [Survey
 Reweighting for Tax Microsimulation
 Modelling](http://ideas.repec.org/p/nzt/nztwps/03-17.html]) by John Creedy.
