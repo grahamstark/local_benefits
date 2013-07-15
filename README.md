@@ -8,7 +8,7 @@ makes the dataset (or a subset of it) match 2011 Census data for each local auth
 in England and Wales. So in principle you can treat the whole FRS sample as if it came from
 that Local Authority. The weight generator uses a technique described in [Survey
 Reweighting for Tax Microsimulation
-Modelling](http://ideas.repec.org/p/nzt/nztwps/03-17.html]) by John Creedy.
+Modelling](http://ideas.repec.org/p/nzt/nztwps/03-17.html) by John Creedy.
 
 It currently matches Census totals for:
  * Gender;
