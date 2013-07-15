@@ -1,6 +1,10 @@
 *.ali
 *.o
+data/ons/
 bin/*
 docs/*.pdf
-docs/za
-
+docs/*.docx
+docs/*.doc
+docs/*.rtf
+docs/*.bib
+*~
