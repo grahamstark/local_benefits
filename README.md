@@ -46,7 +46,7 @@ src/ Ada Source files (see below)
 tests/ test driver code - at present, the only way to drive it is through the
 test code.
 
-You need [Tax Benefit Model Components](https://github.com/tax_benefit_model_components/),
+You need [Tax Benefit Model Components](https://github.com/grahamstark/tax_benefit_model_components/),
 and the dependencies described in that for the Ada code. You'd need to follow
 the instructions there on creating raw FRS files - no chance, probably...
 
