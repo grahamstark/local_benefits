@@ -2,7 +2,7 @@ Modelling Local Authorities Using the Family Resources Survey
 =============================================================
 July 2013
 
-This little piece of code takes an [FRS](http://https://www.gov.uk/government/organisations/department-for-work-pensions/series/family-resources-survey--2)
+This little piece of code takes an [FRS](https://www.gov.uk/government/organisations/department-for-work-pensions/series/family-resources-survey--2)
 dataset and produces sample weights that 
 makes the dataset (or a subset of it) match 2011 Census data for each local authority 
 in England and Wales. So in principle you can treat the whole FRS sample as if it came from
