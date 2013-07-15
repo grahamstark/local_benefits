@@ -1,0 +1,26 @@
+-- see: http://docs.adacore.com/gnatcoll-docs/traces.html
+-- + on next line: enable everything by default
++
+-- log to this file
+>/home/graham_s/VirtualWorlds/projects/ada_mill/scripts/templates/la_data.log
+--
+--  core modules
+--
+DB_COMMONS=no
+CONNECTION_POOL=no
+--
+-- testsuite
+--
+LA_DATA_TEST=yes
+--
+-- io packages
+--
+TARGET_CANDIDATES_TYPE_IO=no
+LAS_TYPE_IO=no
+COUNTRY_TYPE_IO=no
+GOVERNMENT_REGION_TYPE_IO=no
+LAS_IN_REGION_TYPE_IO=no
+REGIONS_IN_COUNTRY_TYPE_IO=no
+-- 
+-- === CUSTOM LOGGING START ===
+-- === CUSTOM LOGGING END ===

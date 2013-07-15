@@ -1,0 +1,96 @@
+<aside class='message' >
+@_MESSAGE_@
+</aside>
+
+<form action="@_URI_@" method="post" id="mainform" name="mainform" class="pure-form pure-form-aligned">                        
+        <div class="pure-controls">
+                <label for='generate'>Generate FRS Weights</label>
+                <input id='generate' type='submit' name='generate' value='Generate' class="pure-button notice"/>
+        </div>
+        <h3>Possible Targets</h3>
+         <fieldset>   
+              <table >
+              @@TABLE@@
+              <tr>
+              <td width='20%'>
+                      <label for='@_IDS_@'>@_LABELS_@:</label></td>
+              </td>      
+              <td width='10%'>
+                       @_BOXES_@
+              </td>
+               <td width='60%'>@_SUMMARY-TABLES_@</td>
+               </tr>
+                @@END_TABLE@@
+             </table>
+          </fieldset>
+          <h3>Available FRS Years</h3>
+          <fieldset>
+              <div class="pure-control-group">
+                       <label for='start_year'>First FRS Year:</label>
+                        @_START-YEAR_@
+              </div>                                        
+              <div class="pure-control-group">
+                       <label for='end_year'>Last FRS Year:</label>
+                        @_END-YEAR_@
+              </div>                                        
+                        
+          </fieldset>
+          <section class='pure-u'>
+                <h3>Reweighting Settings</h3>
+                  <p>
+                  The program minimises some measure of the dispersion of the weights, compared to uniform values.
+                  Five such 'distance functions' are availaible. 
+                  </p>
+                  <p>
+                  Chi-square (unconstrained) just minimises
+                  the sum of squares; this is not recommended as it can produce negative weights. Chi-Squared (constrained)
+                  is similar but puts upper and lower bounds on the weights.
+                  
+                  See the Deville and Sarndal paper for a description of the other measures; note that these frequently fail on this data and sometimes produce negative weights (indicative of a possible
+                  programming error). 
+                  It's probably best to leave the distance function type as "constrained chi".
+                  </p>
+                  <p>
+                  The upper and lower bounds represent how far from uniform the weights are 
+                  allowed to go when using a constrained distance function; a lower-bound 0.1 means the weights cannot be less that 1/10th of the uniform weight, and an
+                  upper bound of 10 means that no household can have a weight greater than 10x uniform. 
+                  </p>
+                  <p>
+                  The weights generation can fail if the council population characterstics
+                  are very different from the FRS population. If this happens try widening the lower and upper bounds. 
+                  </p>
+                  <p>
+                  Weights can be generated so that the whole of the FRS sample grosses up to the Council's totals, 
+                  or so that a subset of the FRS does - just England, or just the Government region containing the council.
+                  Using a subset might help ensure that the dataset better resembles the council in other ways,
+                  such as wage or rent levels.
+                  </p>
+          </section>
+          <a name='settings'></a>
+          <fieldset>
+              <div class="pure-control-group">
+                       <label for='weighting_function'>Distance Function Type:</label>
+                        @_WEIGHTING-FUNCTION_@
+              </div>                                        
+              <div class="pure-control-group">
+                        <label for='weighting_lower_bound'>Lower Bound:</label>
+                        @_WEIGHTING-LOWER-BOUND_@
+               </div>
+               <div class="pure-control-group">
+                        <label for='weighting_upper_bound'>Upper Bound:</label>
+                        @_WEIGHTING-UPPER-BOUND_@
+                </div>
+              <div class="pure-control-group">
+                       <label for='weighting_function'>FRS Subset:</label>
+                        @_SAMPLE_@
+              </div>                                        
+                <div class="pure-controls">
+                        <label for='generate'>Generate FRS Weights</label>
+                        <input id='generate' type='submit' name='generate' value='Generate' class="pure-button notice"/>
+                </div>
+          </fieldset>    
+</form>
+<aside class='message'>
+@_MESSAGE_@
+</aside>
+

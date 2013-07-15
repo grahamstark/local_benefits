@@ -1,0 +1,7 @@
+<table class="pure-table  pure-table-horizontal" width='100%'>
+<caption>@_DESCRIPTION_@</caption>
+        <tr><th width='50%'></th><th>LA Totals</th><th>Uniform-Weighted FRS</th></tr> 
+        @@TABLE@@
+        <tr class='@_CLASSES_@'><th>@_LABELS_@</th><td width='30%'>@_LA_VALUES_@</td><td width='30%'>@_FRS_VALUES_@</td></tr>
+        @@END_TABLE@@
+</table>

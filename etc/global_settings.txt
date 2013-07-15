@@ -1,0 +1,8 @@
+physical_root=/home/graham_s/VirtualWorlds/projects/local_benefits/;
+web_root=/la/;
+log_config_file_name=logging_config_file.txt;
+tmp_dir=tmp;
+template_components_path=/web/la/templates/;
+port=9099;
+dir_separator=/;
+working_root=working/users/;

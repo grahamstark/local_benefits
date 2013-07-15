@@ -1,0 +1,554 @@
+uacounty09:Darlington,E06000005,North East,1
+uacounty09:County Durham,E06000047,North East,1
+uacounty09:Hartlepool,E06000001,North East,1
+uacounty09:Middlesbrough,E06000002,North East,1
+uacounty09:Northumberland,E06000048,North East,1
+uacounty09:Redcar and Cleveland,E06000003,North East,1
+uacounty09:Stockton-on-Tees,E06000004,North East,1
+uacounty09:Gateshead,E08000020,North East,1
+uacounty09:Newcastle upon Tyne,E08000021,North East,1
+uacounty09:North Tyneside,E08000022,North East,1
+uacounty09:South Tyneside,E08000023,North East,1
+uacounty09:Sunderland,E08000024,North East,1
+uacounty09:Blackburn with Darwen,E06000008,North West,2
+uacounty09:Blackpool,E06000009,North West,2
+uacounty09:Cheshire East,E06000049,North West,2
+uacounty09:Cheshire West and Chester,E06000050,North West,2
+uacounty09:Halton,E06000006,North West,2
+uacounty09:Warrington,E06000007,North West,2
+uacounty09:Cumbria,E10000006,North West,2
+uacounty09:Bolton,E08000001,North West,2
+uacounty09:Bury,E08000002,North West,2
+uacounty09:Manchester,E08000003,North West,2
+uacounty09:Oldham,E08000004,North West,2
+uacounty09:Rochdale,E08000005,North West,2
+uacounty09:Salford,E08000006,North West,2
+uacounty09:Stockport,E08000007,North West,2
+uacounty09:Tameside,E08000008,North West,2
+uacounty09:Trafford,E08000009,North West,2
+uacounty09:Wigan,E08000010,North West,2
+uacounty09:Lancashire,E10000017,North West,2
+uacounty09:Knowsley,E08000011,North West,2
+uacounty09:Liverpool,E08000012,North West,2
+uacounty09:Sefton,E08000014,North West,2
+uacounty09:St. Helens,E08000013,North West,2
+uacounty09:Wirral,E08000015,North West,2
+uacounty09:East Riding of Yorkshire,E06000011,Yorkshire and The Humber,4
+"uacounty09:Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,4
+uacounty09:North East Lincolnshire,E06000012,Yorkshire and The Humber,4
+uacounty09:North Lincolnshire,E06000013,Yorkshire and The Humber,4
+uacounty09:York,E06000014,Yorkshire and The Humber,4
+uacounty09:North Yorkshire,E10000023,Yorkshire and The Humber,4
+uacounty09:Barnsley,E08000016,Yorkshire and The Humber,4
+uacounty09:Doncaster,E08000017,Yorkshire and The Humber,4
+uacounty09:Rotherham,E08000018,Yorkshire and The Humber,4
+uacounty09:Sheffield,E08000019,Yorkshire and The Humber,4
+uacounty09:Bradford,E08000032,Yorkshire and The Humber,4
+uacounty09:Calderdale,E08000033,Yorkshire and The Humber,4
+uacounty09:Kirklees,E08000034,Yorkshire and The Humber,4
+uacounty09:Leeds,E08000035,Yorkshire and The Humber,4
+uacounty09:Wakefield,E08000036,Yorkshire and The Humber,4
+uacounty09:Derby,E06000015,
+uacounty09:Leicester,E06000016,
+uacounty09:Nottingham,E06000018,
+uacounty09:Rutland,E06000017,
+uacounty09:Derbyshire,E10000007,
+uacounty09:Leicestershire,E10000018,
+uacounty09:Lincolnshire,E10000019,
+uacounty09:Northamptonshire,E10000021,
+uacounty09:Nottinghamshire,E10000024,
+"uacounty09:Herefordshire, County of",E06000019,
+uacounty09:Shropshire,E06000051,
+uacounty09:Stoke-on-Trent,E06000021,
+uacounty09:Telford and Wrekin,E06000020,
+uacounty09:Staffordshire,E10000028,
+uacounty09:Warwickshire,E10000031,
+uacounty09:Birmingham,E08000025,
+uacounty09:Coventry,E08000026,
+uacounty09:Dudley,E08000027,
+uacounty09:Sandwell,E08000028,
+uacounty09:Solihull,E08000029,
+uacounty09:Walsall,E08000030,
+uacounty09:Wolverhampton,E08000031,
+uacounty09:Worcestershire,E10000034,
+uacounty09:Bedford,E06000055,
+uacounty09:Central Bedfordshire,E06000056,
+uacounty09:Luton,E06000032,
+uacounty09:Peterborough,E06000031,
+uacounty09:Southend-on-Sea,E06000033,
+uacounty09:Thurrock,E06000034,
+uacounty09:Cambridgeshire,E10000003,
+uacounty09:Essex,E10000012,
+uacounty09:Hertfordshire,E10000015,
+uacounty09:Norfolk,E10000020,
+uacounty09:Suffolk,E10000029,
+uacounty09:Camden,E09000007,
+uacounty09:City of London,E09000001,
+uacounty09:Hackney,E09000012,
+uacounty09:Hammersmith and Fulham,E09000013,
+uacounty09:Haringey,E09000014,
+uacounty09:Islington,E09000019,
+uacounty09:Kensington and Chelsea,E09000020,
+uacounty09:Lambeth,E09000022,
+uacounty09:Lewisham,E09000023,
+uacounty09:Newham,E09000025,
+uacounty09:Southwark,E09000028,
+uacounty09:Tower Hamlets,E09000030,
+uacounty09:Wandsworth,E09000032,
+uacounty09:Westminster,E09000033,
+uacounty09:Barking and Dagenham,E09000002,
+uacounty09:Barnet,E09000003,
+uacounty09:Bexley,E09000004,
+uacounty09:Brent,E09000005,
+uacounty09:Bromley,E09000006,
+uacounty09:Croydon,E09000008,
+uacounty09:Ealing,E09000009,
+uacounty09:Enfield,E09000010,
+uacounty09:Greenwich,E09000011,
+uacounty09:Harrow,E09000015,
+uacounty09:Havering,E09000016,
+uacounty09:Hillingdon,E09000017,
+uacounty09:Hounslow,E09000018,
+uacounty09:Kingston upon Thames,E09000021,
+uacounty09:Merton,E09000024,
+uacounty09:Redbridge,E09000026,
+uacounty09:Richmond upon Thames,E09000027,
+uacounty09:Sutton,E09000029,
+uacounty09:Waltham Forest,E09000031,
+uacounty09:Bracknell Forest,E06000036,
+uacounty09:Brighton and Hove,E06000043,
+uacounty09:Isle of Wight,E06000046,
+uacounty09:Medway,E06000035,
+uacounty09:Milton Keynes,E06000042,
+uacounty09:Portsmouth,E06000044,
+uacounty09:Reading,E06000038,
+uacounty09:Slough,E06000039,
+uacounty09:Southampton,E06000045,
+uacounty09:West Berkshire,E06000037,
+uacounty09:Windsor and Maidenhead,E06000040,
+uacounty09:Wokingham,E06000041,
+uacounty09:Buckinghamshire,E10000002,
+uacounty09:East Sussex,E10000011,
+uacounty09:Hampshire,E10000014,
+uacounty09:Kent,E10000016,
+uacounty09:Oxfordshire,E10000025,
+uacounty09:Surrey,E10000030,
+uacounty09:West Sussex,E10000032,
+uacounty09:Bath and North East,1 Somerset,E06000022,
+uacounty09:Bournemouth,E06000028,
+"uacounty09:Bristol, City of",E06000023,
+uacounty09:Cornwall,E06000052,
+uacounty09:Isles of Scilly,E06000053,
+uacounty09:North Somerset,E06000024,
+uacounty09:Plymouth,E06000026,
+uacounty09:Poole,E06000029,
+uacounty09:South Gloucestershire,E06000025,
+uacounty09:Swindon,E06000030,
+uacounty09:Torbay,E06000027,
+uacounty09:Wiltshire,E06000054,
+uacounty09:Devon,E10000008,
+uacounty09:Dorset,E10000009,
+uacounty09:Gloucestershire,E10000013,
+uacounty09:Somerset,E10000027,
+uacounty09:Anglesey,W06000001,
+uacounty09:Gwynedd,W06000002,
+uacounty09:Conwy,W06000003,
+uacounty09:Denbighshire,W06000004,
+uacounty09:Flintshire,W06000005,
+uacounty09:Wrexham,W06000006,
+uacounty09:Powys,W06000023,
+uacounty09:Ceredigion,W06000008,
+uacounty09:Pembrokeshire,W06000009,
+uacounty09:Carmarthenshire,W06000010,
+uacounty09:Swansea,W06000011,
+uacounty09:Neath Port Talbot,W06000012,
+uacounty09:Bridgend,W06000013,
+uacounty09:The Vale of Glamorgan,W06000014,
+uacounty09:Cardiff,W06000015,
+"uacounty09:Rhondda, Cynon, Taff",W06000016,
+uacounty09:Merthyr Tydfil,W06000024,
+uacounty09:Caerphilly,W06000018,
+uacounty09:Blaenau Gwent,W06000019,
+uacounty09:Torfaen,W06000020,
+uacounty09:Monmouthshire,W06000021,
+uacounty09:Newport,W06000022,
+uacounty09:Aberdeen City,S12000033,
+uacounty09:Aberdeenshire,S12000034,
+uacounty09:Angus,S12000041,
+uacounty09:Argyll and Bute,S12000035,
+uacounty09:Clackmannanshire,S12000005,
+uacounty09:Dumfries and Galloway,S12000006,
+uacounty09:Dundee City,S12000042,
+uacounty09:East Ayrshire,S12000008,
+uacounty09:East Dunbartonshire,S12000009,
+uacounty09:East Lothian,S12000010,
+uacounty09:East Renfrewshire,S12000011,
+"uacounty09:Edinburgh, City of",S12000036,
+uacounty09:Eilean Siar,S12000013,
+uacounty09:Falkirk,S12000014,
+uacounty09:Fife,S12000015,
+uacounty09:Glasgow City,S12000043,
+uacounty09:Highland,S12000017,
+uacounty09:Inverclyde,S12000018,
+uacounty09:Midlothian,S12000019,
+uacounty09:Moray,S12000020,
+uacounty09:North Ayrshire,S12000021,
+uacounty09:North Lanarkshire,S12000044,
+uacounty09:Orkney Islands,S12000023,
+uacounty09:Perth and Kinross,S12000024,
+uacounty09:Renfrewshire,S12000038,
+uacounty09:Scottish Borders,S12000026,
+uacounty09:Shetland Islands,S12000027,
+uacounty09:South Ayrshire,S12000028,
+uacounty09:South Lanarkshire,S12000029,
+uacounty09:Stirling,S12000030,
+uacounty09:West Dunbartonshire,S12000039,
+uacounty09:West Lothian,S12000040,
+ualad09:Darlington,E06000005,North East,1
+ualad09:County Durham,E06000047,North East,1
+ualad09:Hartlepool,E06000001,North East,1
+ualad09:Middlesbrough,E06000002,North East,1
+ualad09:Northumberland,E06000048,North East,1
+ualad09:Redcar and Cleveland,E06000003,North East,1
+ualad09:Stockton-on-Tees,E06000004,North East,1
+ualad09:Gateshead,E08000020,North East,1
+ualad09:Newcastle upon Tyne,E08000021,North East,1
+ualad09:North Tyneside,E08000022,North East,1
+ualad09:South Tyneside,E08000023,North East,1
+ualad09:Sunderland,E08000024,North East,1
+ualad09:Blackburn with Darwen,E06000008,North West,2
+ualad09:Blackpool,E06000009,North West,2
+ualad09:Cheshire East,E06000049,North West,2
+ualad09:Cheshire West and Chester,E06000050,North West,2
+ualad09:Halton,E06000006,North West,2
+ualad09:Warrington,E06000007,North West,2
+ualad09:Allerdale,E07000026,North West,2
+ualad09:Barrow-in-Furness,E07000027,North West,2
+ualad09:Carlisle,E07000028,North West,2
+ualad09:Copeland,E07000029,North West,2
+ualad09:Eden,E07000030,North West,2
+ualad09:South Lakeland,E07000031,North West,2
+ualad09:Bolton,E08000001,North West,2
+ualad09:Bury,E08000002,North West,2
+ualad09:Manchester,E08000003,North West,2
+ualad09:Oldham,E08000004,North West,2
+ualad09:Rochdale,E08000005,North West,2
+ualad09:Salford,E08000006,North West,2
+ualad09:Stockport,E08000007,North West,2
+ualad09:Tameside,E08000008,North West,2
+ualad09:Trafford,E08000009,North West,2
+ualad09:Wigan,E08000010,North West,2
+ualad09:Burnley,E07000117,North West,2
+ualad09:Chorley,E07000118,North West,2
+ualad09:Fylde,E07000119,North West,2
+ualad09:Hyndburn,E07000120,North West,2
+ualad09:Lancaster,E07000121,North West,2
+ualad09:Pendle,E07000122,North West,2
+ualad09:Preston,E07000123,North West,2
+ualad09:Ribble Valley,E07000124,North West,2
+ualad09:Rossendale,E07000125,North West,2
+ualad09:South Ribble,E07000126,North West,2
+ualad09:West Lancashire,E07000127,North West,2
+ualad09:Wyre,E07000128,North West,2
+ualad09:Knowsley,E08000011,North West,2
+ualad09:Liverpool,E08000012,North West,2
+ualad09:Sefton,E08000014,North West,2
+ualad09:St. Helens,E08000013,North West,2
+ualad09:Wirral,E08000015,North West,2
+ualad09:East Riding of Yorkshire,E06000011,Yorkshire and The Humber,4
+"ualad09:Kingston upon Hull, City of",E06000010,Yorkshire and The Humber,4
+ualad09:North East Lincolnshire,E06000012,Yorkshire and The Humber,4
+ualad09:North Lincolnshire,E06000013,Yorkshire and The Humber,4
+ualad09:York,E06000014,Yorkshire and The Humber,4
+ualad09:Craven,E07000163,Yorkshire and The Humber,4
+ualad09:Hambleton,E07000164,Yorkshire and The Humber,4
+ualad09:Harrogate,E07000165,Yorkshire and The Humber,4
+ualad09:Richmondshire,E07000166,Yorkshire and The Humber,4
+ualad09:Ryedale,E07000167,Yorkshire and The Humber,4
+ualad09:Scarborough,E07000168,Yorkshire and The Humber,4
+ualad09:Selby,E07000169,Yorkshire and The Humber,4
+ualad09:Barnsley,E08000016,Yorkshire and The Humber,4
+ualad09:Doncaster,E08000017,Yorkshire and The Humber,4
+ualad09:Rotherham,E08000018,Yorkshire and The Humber,4
+ualad09:Sheffield,E08000019,Yorkshire and The Humber,4
+ualad09:Bradford,E08000032,Yorkshire and The Humber,4
+ualad09:Calderdale,E08000033,Yorkshire and The Humber,4
+ualad09:Kirklees,E08000034,Yorkshire and The Humber,4
+ualad09:Leeds,E08000035,Yorkshire and The Humber,4
+ualad09:Wakefield,E08000036,Yorkshire and The Humber,4
+ualad09:Derby,E06000015,East Midlands,5
+ualad09:Leicester,E06000016,East Midlands,5
+ualad09:Nottingham,E06000018,East Midlands,5
+ualad09:Rutland,E06000017,East Midlands,5
+ualad09:Amber Valley,E07000032,East Midlands,5
+ualad09:Bolsover,E07000033,East Midlands,5
+ualad09:Chesterfield,E07000034,East Midlands,5
+ualad09:Derbyshire Dales,E07000035,East Midlands,5
+ualad09:Erewash,E07000036,East Midlands,5
+ualad09:High Peak,E07000037,East Midlands,5
+ualad09:North East Derbyshire,E07000038,East Midlands,5
+ualad09:South Derbyshire,E07000039,East Midlands,5
+ualad09:Blaby,E07000129,East Midlands,5
+ualad09:Charnwood,E07000130,East Midlands,5
+ualad09:Harborough,E07000131,East Midlands,5
+ualad09:Hinckley and Bosworth,E07000132,East Midlands,5
+ualad09:Melton,E07000133,East Midlands,5
+ualad09:North West Leicestershire,E07000134,East Midlands,5
+ualad09:Oadby and Wigston,E07000135,East Midlands,5
+ualad09:Boston,E07000136,East Midlands,5
+ualad09:East Lindsey,E07000137,East Midlands,5
+ualad09:Lincoln,E07000138,East Midlands,5
+ualad09:North Kesteven,E07000139,East Midlands,5
+ualad09:South Holland,E07000140,East Midlands,5
+ualad09:South Kesteven,E07000141,East Midlands,5
+ualad09:West Lindsey,E07000142,East Midlands,5
+ualad09:Corby,E07000150,East Midlands,5
+ualad09:Daventry,E07000151,East Midlands,5
+ualad09:East Northamptonshire,E07000152,East Midlands,5
+ualad09:Kettering,E07000153,East Midlands,5
+ualad09:Northampton,E07000154,East Midlands,5
+ualad09:South Northamptonshire,E07000155,East Midlands,5
+ualad09:Wellingborough,E07000156,East Midlands,5
+ualad09:Ashfield,E07000170,East Midlands,5
+ualad09:Bassetlaw,E07000171,East Midlands,5
+ualad09:Broxtowe,E07000172,East Midlands,5
+ualad09:Gedling,E07000173,East Midlands,5
+ualad09:Mansfield,E07000174,East Midlands,5
+ualad09:Newark and Sherwood,E07000175,East Midlands,5
+ualad09:Rushcliffe,E07000176,East Midlands,5
+"ualad09:Herefordshire, County of",E06000019,West Midlands,6
+ualad09:Shropshire,E06000051,West Midlands,6
+ualad09:Stoke-on-Trent,E06000021,West Midlands,6
+ualad09:Telford and Wrekin,E06000020,West Midlands,6
+ualad09:Cannock Chase,E07000192,West Midlands,6
+ualad09:East Staffordshire,E07000193,West Midlands,6
+ualad09:Lichfield,E07000194,West Midlands,6
+ualad09:Newcastle-under-Lyme,E07000195,West Midlands,6
+ualad09:South Staffordshire,E07000196,West Midlands,6
+ualad09:Stafford,E07000197,West Midlands,6
+ualad09:Staffordshire Moorlands,E07000198,West Midlands,6
+ualad09:Tamworth,E07000199,West Midlands,6
+ualad09:North Warwickshire,E07000218,West Midlands,6
+ualad09:Nuneaton and Bedworth,E07000219,West Midlands,6
+ualad09:Rugby,E07000220,West Midlands,6
+ualad09:Stratford-on-Avon,E07000221,West Midlands,6
+ualad09:Warwick,E07000222,West Midlands,6
+ualad09:Birmingham,E08000025,West Midlands,6
+ualad09:Coventry,E08000026,West Midlands,6
+ualad09:Dudley,E08000027,West Midlands,6
+ualad09:Sandwell,E08000028,West Midlands,6
+ualad09:Solihull,E08000029,West Midlands,6
+ualad09:Walsall,E08000030,West Midlands,6
+ualad09:Wolverhampton,E08000031,West Midlands,6
+ualad09:Bromsgrove,E07000234,West Midlands,6
+ualad09:Malvern Hills,E07000235,West Midlands,6
+ualad09:Redditch,E07000236,West Midlands,6
+ualad09:Worcester,E07000237,West Midlands,6
+ualad09:Wychavon,E07000238,West Midlands,6
+ualad09:Wyre Forest,E07000239,West Midlands,6
+ualad09:Bedford,E06000055,East,7
+ualad09:Central Bedfordshire,E06000056,East,7
+ualad09:Luton,E06000032,East,7
+ualad09:Peterborough,E06000031,East,7
+ualad09:Southend-on-Sea,E06000033,East,7
+ualad09:Thurrock,E06000034,East,7
+ualad09:Cambridge,E07000008,East,7
+ualad09:East Cambridgeshire,E07000009,East,7
+ualad09:Fenland,E07000010,East,7
+ualad09:Huntingdonshire,E07000011,East,7
+ualad09:South Cambridgeshire,E07000012,East,7
+ualad09:Basildon,E07000066,East,7
+ualad09:Braintree,E07000067,East,7
+ualad09:Brentwood,E07000068,East,7
+ualad09:Castle Point,E07000069,East,7
+ualad09:Chelmsford,E07000070,East,7
+ualad09:Colchester,E07000071,East,7
+ualad09:Epping Forest,E07000072,East,7
+ualad09:Harlow,E07000073,East,7
+ualad09:Maldon,E07000074,East,7
+ualad09:Rochford,E07000075,East,7
+ualad09:Tendring,E07000076,East,7
+ualad09:Uttlesford,E07000077,East,7
+ualad09:Broxbourne,E07000095,East,7
+ualad09:Dacorum,E07000096,East,7
+ualad09:East Hertfordshire,E07000097,East,7
+ualad09:Hertsmere,E07000098,East,7
+ualad09:North Hertfordshire,E07000099,East,7
+ualad09:St Albans,E07000100,East,7
+ualad09:Stevenage,E07000101,East,7
+ualad09:Three Rivers,E07000102,East,7
+ualad09:Watford,E07000103,East,7
+ualad09:Welwyn Hatfield,E07000104,East,7
+ualad09:Breckland,E07000143,East,7
+ualad09:Broadland,E07000144,East,7
+ualad09:Great Yarmouth,E07000145,East,7
+ualad09:King`s Lynn and West Norfolk,E07000146,East,7
+ualad09:North Norfolk,E07000147,East,7
+ualad09:Norwich,E07000148,East,7
+ualad09:South Norfolk,E07000149,East,7
+ualad09:Babergh,E07000200,East,7
+ualad09:Forest Heath,E07000201,East,7
+ualad09:Ipswich,E07000202,East,7
+ualad09:Mid Suffolk,E07000203,East,7
+ualad09:St Edmundsbury,E07000204,East,7
+ualad09:Suffolk Coastal,E07000205,East,7
+ualad09:Waveney,E07000206,East,7
+ualad09:Camden,E09000007,London,8
+ualad09:City of London,E09000001,London,8
+ualad09:Hackney,E09000012,London,8
+ualad09:Hammersmith and Fulham,E09000013,London,8
+ualad09:Haringey,E09000014,London,8
+ualad09:Islington,E09000019,London,8
+ualad09:Kensington and Chelsea,E09000020,London,8
+ualad09:Lambeth,E09000022,London,8
+ualad09:Lewisham,E09000023,London,8
+ualad09:Newham,E09000025,London,8
+ualad09:Southwark,E09000028,London,8
+ualad09:Tower Hamlets,E09000030,London,8
+ualad09:Wandsworth,E09000032,London,8
+ualad09:Westminster,E09000033,London,8
+ualad09:Barking and Dagenham,E09000002,London,8
+ualad09:Barnet,E09000003,London,8
+ualad09:Bexley,E09000004,London,8
+ualad09:Brent,E09000005,London,8
+ualad09:Bromley,E09000006,London,8
+ualad09:Croydon,E09000008,London,8
+ualad09:Ealing,E09000009,London,8
+ualad09:Enfield,E09000010,London,8
+ualad09:Greenwich,E09000011,London,8
+ualad09:Harrow,E09000015,London,8
+ualad09:Havering,E09000016,London,8
+ualad09:Hillingdon,E09000017,London,8
+ualad09:Hounslow,E09000018,London,8
+ualad09:Kingston upon Thames,E09000021,London,8
+ualad09:Merton,E09000024,London,8
+ualad09:Redbridge,E09000026,London,8
+ualad09:Richmond upon Thames,E09000027,London,8
+ualad09:Sutton,E09000029,London,8
+ualad09:Waltham Forest,E09000031,London,8
+ualad09:Bracknell Forest,E06000036,South East,9
+ualad09:Brighton and Hove,E06000043,South East,9
+ualad09:Isle of Wight,E06000046,South East,9
+ualad09:Medway,E06000035,South East,9
+ualad09:Milton Keynes,E06000042,South East,9
+ualad09:Portsmouth,E06000044,South East,9
+ualad09:Reading,E06000038,South East,9
+ualad09:Slough,E06000039,South East,9
+ualad09:Southampton,E06000045,South East,9
+ualad09:West Berkshire,E06000037,South East,9
+ualad09:Windsor and Maidenhead,E06000040,South East,9
+ualad09:Wokingham,E06000041,South East,9
+ualad09:Aylesbury Vale,E07000004,South East,9
+ualad09:Chiltern,E07000005,South East,9
+ualad09:South Bucks,E07000006,South East,9
+ualad09:Wycombe,E07000007,South East,9
+ualad09:Eastbourne,E07000061,South East,9
+ualad09:Hastings,E07000062,South East,9
+ualad09:Lewes,E07000063,South East,9
+ualad09:Rother,E07000064,South East,9
+ualad09:Wealden,E07000065,South East,9
+ualad09:Basingstoke and Deane,E07000084,South East,9
+ualad09:East Hampshire,E07000085,South East,9
+ualad09:Eastleigh,E07000086,South East,9
+ualad09:Fareham,E07000087,South East,9
+ualad09:Gosport,E07000088,South East,9
+ualad09:Hart,E07000089,South East,9
+ualad09:Havant,E07000090,South East,9
+ualad09:New Forest,E07000091,South East,9
+ualad09:Rushmoor,E07000092,South East,9
+ualad09:Test Valley,E07000093,South East,9
+ualad09:Winchester,E07000094,South East,9
+ualad09:Ashford,E07000105,South East,9
+ualad09:Canterbury,E07000106,South East,9
+ualad09:Dartford,E07000107,South East,9
+ualad09:Dover,E07000108,South East,9
+ualad09:Gravesham,E07000109,South East,9
+ualad09:Maidstone,E07000110,South East,9
+ualad09:Sevenoaks,E07000111,South East,9
+ualad09:Shepway,E07000112,South East,9
+ualad09:Swale,E07000113,South East,9
+ualad09:Thanet,E07000114,South East,9
+ualad09:Tonbridge and Malling,E07000115,South East,9
+ualad09:Tunbridge Wells,E07000116,South East,9
+ualad09:Cherwell,E07000177,South East,9
+ualad09:Oxford,E07000178,South East,9
+ualad09:South Oxfordshire,E07000179,South East,9
+ualad09:Vale of White Horse,E07000180,South East,9
+ualad09:West Oxfordshire,E07000181,South East,9
+ualad09:Elmbridge,E07000207,South East,9
+ualad09:Epsom and Ewell,E07000208,South East,9
+ualad09:Guildford,E07000209,South East,9
+ualad09:Mole Valley,E07000210,South East,9
+ualad09:Reigate and Banstead,E07000211,South East,9
+ualad09:Runnymede,E07000212,South East,9
+ualad09:Spelthorne,E07000213,South East,9
+ualad09:Surrey Heath,E07000214,South East,9
+ualad09:Tandridge,E07000215,South East,9
+ualad09:Waverley,E07000216,South East,9
+ualad09:Woking,E07000217,South East,9
+ualad09:Adur,E07000223,South East,9
+ualad09:Arun,E07000224,South East,9
+ualad09:Chichester,E07000225,South East,9
+ualad09:Crawley,E07000226,South East,9
+ualad09:Horsham,E07000227,South East,9
+ualad09:Mid Sussex,E07000228,South East,9
+ualad09:Worthing,E07000229,South East,9
+ualad09:Bath and North East Somerset,E06000022,South West,10
+ualad09:Bournemouth,E06000028,South West,10
+"ualad09:Bristol, City of",E06000023,South West,10
+ualad09:Cornwall,E06000052,South West,10
+ualad09:Isles of Scilly,E06000053,South West,10
+ualad09:North Somerset,E06000024,South West,10
+ualad09:Plymouth,E06000026,South West,10
+ualad09:Poole,E06000029,South West,10
+ualad09:South Gloucestershire,E06000025,South West,10
+ualad09:Swindon,E06000030,South West,10
+ualad09:Torbay,E06000027,South West,10
+ualad09:Wiltshire,E06000054,South West,10
+ualad09:East Devon,E07000040,South West,10
+ualad09:Exeter,E07000041,South West,10
+ualad09:Mid Devon,E07000042,South West,10
+ualad09:North Devon,E07000043,South West,10
+ualad09:South Hams,E07000044,South West,10
+ualad09:Teignbridge,E07000045,South West,10
+ualad09:Torridge,E07000046,South West,10
+ualad09:West Devon,E07000047,South West,10
+ualad09:Christchurch,E07000048,South West,10
+ualad09:East Dorset,E07000049,South West,10
+ualad09:North Dorset,E07000050,South West,10
+ualad09:Purbeck,E07000051,South West,10
+ualad09:West Dorset,E07000052,South West,10
+ualad09:Weymouth and Portland,E07000053,South West,10
+ualad09:Cheltenham,E07000078,South West,10
+ualad09:Cotswold,E07000079,South West,10
+ualad09:Forest of Dean,E07000080,South West,10
+ualad09:Gloucester,E07000081,South West,10
+ualad09:Stroud,E07000082,South West,10
+ualad09:Tewkesbury,E07000083,South West,10
+ualad09:Mendip,E07000187,South West,10
+ualad09:Sedgemoor,E07000188,South West,10
+ualad09:South Somerset,E07000189,South West,10
+ualad09:Taunton Deane,E07000190,South West,10
+ualad09:West Somerset,E07000191,South West,10
+ualad09:Anglesey,W06000001,Wales,11
+ualad09:Gwynedd,W06000002,Wales,11
+ualad09:Conwy,W06000003,Wales,11
+ualad09:Denbighshire,W06000004,Wales,11
+ualad09:Flintshire,W06000005,Wales,11
+ualad09:Wrexham,W06000006,Wales,11
+ualad09:Powys,W06000023,Wales,11
+ualad09:Ceredigion,W06000008,Wales,11
+ualad09:Pembrokeshire,W06000009,Wales,11
+ualad09:Carmarthenshire,W06000010,Wales,11
+ualad09:Swansea,W06000011,Wales,11
+ualad09:Neath Port Talbot,W06000012,Wales,11
+ualad09:Bridgend,W06000013,Wales,11
+ualad09:The Vale of Glamorgan,W06000014,Wales,11
+ualad09:Cardiff,W06000015,Wales,11
+"ualad09:Rhondda, Cynon, Taff",W06000016,Wales,11
+ualad09:Merthyr Tydfil,W06000024,Wales,11
+ualad09:Caerphilly,W06000018,Wales,11
+ualad09:Blaenau Gwent,W06000019,Wales,11
+ualad09:Torfaen,W06000020,Wales,11
+ualad09:Monmouthshire,W06000021,Wales,11
+ualad09:Newport,W06000022,Wales,11

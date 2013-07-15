@@ -1,0 +1,21 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<script>
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src='//www.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+
+<footer>
+        <a href='http://www.virtual-worlds.biz/'>Virtual Worlds</a> &bull; 
+        Powered by <a href="http://libre.adacore.com/libre/tools/aws/">Ada Web Server</a> &bull;
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">Valid CSS</a> &bull;
+        <a href="http://validator.w3.org/check?uri=referer">Valid XHTML 1.0</a>
+</footer>
+

@@ -1,0 +1,13 @@
+-- see: http://docs.adacore.com/gnatcoll-docs/traces.html
+-- + on next line: enable everything by default
++
+-- log to this file
+>/home/graham_s/VirtualWorlds/projects/local_benefits/logs/labens.log
+--
+--  core modules
+--
+-- testsuite
+--
+LAB_TEST=yes
+--
+

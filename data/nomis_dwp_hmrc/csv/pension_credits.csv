@@ -1,0 +1,530 @@
+benefit payments - pension credits,,,
+ONS Crown Copyright Reserved [from Nomis on 7 May 2013],,,
+date,August 2012,,
+sex,Total,,
+age,Total,,
+duration,Total,,
+partner,total,stat group,total
+Area,number of claimants,number of beneficiaries,average weekly payment
+uacounty09:Darlington,5160,6310,51.46
+uacounty09:County Durham,28590,35460,49.57
+uacounty09:Hartlepool,5860,7370,49.81
+uacounty09:Middlesbrough,7890,9590,52.89
+uacounty09:Northumberland,14340,17610,47.62
+uacounty09:Redcar and Cleveland,7660,9520,49.61
+uacounty09:Stockton-on-Tees,8620,10650,50.2
+uacounty09:Gateshead,12070,14840,50.34
+uacounty09:Newcastle upon Tyne,14270,17090,55.88
+uacounty09:North Tyneside,10920,13330,50.67
+uacounty09:South Tyneside,10240,12550,49.65
+uacounty09:Sunderland,17800,22250,50.6
+uacounty09:Blackburn with Darwen,6850,8630,64.87
+uacounty09:Blackpool,9800,11800,57.94
+uacounty09:Cheshire East,11690,14080,50.34
+uacounty09:Cheshire West and Chester,12080,14750,53.25
+uacounty09:Halton,6030,7520,55.75
+uacounty09:Warrington,7290,8890,52.52
+uacounty09:Cumbria,19990,24150,51.61
+uacounty09:Bolton,13460,16620,57.65
+uacounty09:Bury,7580,9150,54.9
+uacounty09:Manchester,24260,28540,68.56
+uacounty09:Oldham,10460,12610,55.51
+uacounty09:Rochdale,10600,12900,58.07
+uacounty09:Salford,12380,14700,56.29
+uacounty09:Stockport,11160,13370,57.02
+uacounty09:Tameside,10840,13190,54.28
+uacounty09:Trafford,7830,9240,57.19
+uacounty09:Wigan,15260,19040,50.12
+uacounty09:Lancashire,52000,63750,54.78
+uacounty09:Knowsley,10490,12950,58.66
+uacounty09:Liverpool,30430,36490,61.25
+uacounty09:Sefton,15600,18920,55.91
+uacounty09:St. Helens,9180,11480,54.3
+uacounty09:Wirral,16630,19980,57.09
+uacounty09:East Riding of Yorkshire,14820,18760,47.31
+"uacounty09:Kingston upon Hull, City of",15670,19390,52.22
+uacounty09:North East Lincolnshire,8560,10660,50.81
+uacounty09:North Lincolnshire,7650,9600,48.71
+uacounty09:York,5950,7120,48.8
+uacounty09:North Yorkshire,21870,26760,48.37
+uacounty09:Barnsley,11740,14660,50.09
+uacounty09:Doncaster,14890,18580,49.91
+uacounty09:Rotherham,13140,16680,50.21
+uacounty09:Sheffield,26800,32980,51.81
+uacounty09:Bradford,23590,29050,57.75
+uacounty09:Calderdale,8680,10510,52.18
+uacounty09:Kirklees,17190,21100,54.67
+uacounty09:Leeds,30530,36580,52.36
+uacounty09:Wakefield,14740,18110,50.15
+uacounty09:Derby,10400,12710,55.67
+uacounty09:Leicester,16440,20650,77.72
+uacounty09:Nottingham,13510,16090,59.36
+uacounty09:Rutland,980,1190,46.68
+uacounty09:Derbyshire,31790,39250,49.42
+uacounty09:Leicestershire,21310,26320,50.56
+uacounty09:Lincolnshire,33300,42650,50.36
+uacounty09:Northamptonshire,23580,28630,53.7
+uacounty09:Nottinghamshire,30320,37450,50.64
+"uacounty09:Herefordshire, County of",7560,9360,54.55
+uacounty09:Shropshire,12880,15850,52.93
+uacounty09:Stoke-on-Trent,12780,15720,50.39
+uacounty09:Telford and Wrekin,7230,9090,55.56
+uacounty09:Staffordshire,32930,40880,49.75
+uacounty09:Warwickshire,19470,23850,52.14
+uacounty09:Birmingham,54200,66250,64.44
+uacounty09:Coventry,14520,17530,61.22
+uacounty09:Dudley,16370,20860,50.89
+uacounty09:Sandwell,19180,24050,59.17
+uacounty09:Solihull,7750,9450,53.6
+uacounty09:Walsall,15480,19620,56.72
+uacounty09:Wolverhampton,14500,17920,56.63
+uacounty09:Worcestershire,21610,26700,52.47
+uacounty09:Bedford,5230,6240,55.78
+uacounty09:Central Bedfordshire,7110,8630,50.96
+uacounty09:Luton,7120,8920,67.69
+uacounty09:Peterborough,6900,8470,60.27
+uacounty09:Southend-on-Sea,7730,9220,57.55
+uacounty09:Thurrock,5360,6570,58.24
+uacounty09:Cambridgeshire,17940,22090,53.36
+uacounty09:Essex,52290,64270,53.25
+uacounty09:Hertfordshire,30820,36670,56.06
+uacounty09:Norfolk,40200,50560,50.4
+uacounty09:Suffolk,28410,35100,51.49
+uacounty09:Camden,8400,9540,85.81
+uacounty09:City of London,150,170,77.19
+uacounty09:Hackney,10340,12070,87.23
+uacounty09:Hammersmith and Fulham,6410,7230,81.93
+uacounty09:Haringey,9960,11820,85.01
+uacounty09:Islington,9130,10520,81.77
+uacounty09:Kensington and Chelsea,5920,6690,87.17
+uacounty09:Lambeth,10900,12320,80.84
+uacounty09:Lewisham,9580,10970,72.94
+uacounty09:Newham,11640,14440,89.04
+uacounty09:Southwark,10760,12260,80.24
+uacounty09:Tower Hamlets,10270,12470,88.54
+uacounty09:Wandsworth,9070,10430,76.19
+uacounty09:Westminster,8260,9480,93.08
+uacounty09:Barking and Dagenham,7620,9180,67.29
+uacounty09:Barnet,11240,13470,83.31
+uacounty09:Bexley,6850,8150,59.08
+uacounty09:Brent,12270,14860,90.42
+uacounty09:Bromley,8550,10020,62.47
+uacounty09:Croydon,10910,12930,73.62
+uacounty09:Ealing,11890,14420,91.94
+uacounty09:Enfield,11400,14110,77.81
+uacounty09:Greenwich,8960,10720,75.76
+uacounty09:Harrow,8140,10120,95.36
+uacounty09:Havering,8500,10210,57
+uacounty09:Hillingdon,7810,9390,76.09
+uacounty09:Hounslow,7940,9680,82.77
+uacounty09:Kingston upon Thames,3840,4520,73.32
+uacounty09:Merton,5390,6450,72.9
+uacounty09:Redbridge,9370,11650,81.97
+uacounty09:Richmond upon Thames,4080,4640,68.81
+uacounty09:Sutton,5360,6240,62.57
+uacounty09:Waltham Forest,9090,11020,74.44
+uacounty09:Bracknell Forest,2640,3170,57.41
+uacounty09:Brighton and Hove,10620,12270,62.09
+uacounty09:Isle of Wight,7510,9260,51.19
+uacounty09:Medway,9040,11040,54.71
+uacounty09:Milton Keynes,6950,8500,60.67
+uacounty09:Portsmouth,7760,9120,56.66
+uacounty09:Reading,4670,5690,65.61
+uacounty09:Slough,4250,5200,74.27
+uacounty09:Southampton,8910,10550,57.76
+uacounty09:West Berkshire,3570,4340,51.62
+uacounty09:Windsor and Maidenhead,3430,4040,55.69
+uacounty09:Wokingham,2510,3030,53.04
+uacounty09:Buckinghamshire,11670,14020,56.49
+uacounty09:East Sussex,23350,28170,54.59
+uacounty09:Hampshire,37660,45900,53.67
+uacounty09:Kent,54590,66860,54.84
+uacounty09:Oxfordshire,15600,18610,54.1
+uacounty09:Surrey,24900,29080,56.79
+uacounty09:West Sussex,27920,33310,53.14
+uacounty09:Bath and North East Somerset,5620,6690,52.65
+uacounty09:Bournemouth,8600,10090,56.74
+"uacounty09:Bristol, City of",16030,18980,61.65
+uacounty09:Cornwall,27710,35000,53.31
+uacounty09:Isles of Scilly,50,50,49.38
+uacounty09:North Somerset,8110,9780,52.42
+uacounty09:Plymouth,10800,13000,54.86
+uacounty09:Poole,6000,7270,52.02
+uacounty09:South Gloucestershire,7450,9130,51.99
+uacounty09:Swindon,6750,8320,59.2
+uacounty09:Torbay,8750,10820,57.53
+uacounty09:Wiltshire,14220,17260,51.65
+uacounty09:Devon,31960,39410,52.89
+uacounty09:Dorset,16530,20400,50.22
+uacounty09:Gloucestershire,20620,25000,53.05
+uacounty09:Somerset,21420,26240,52.05
+uacounty09:Anglesey,3820,4790,55.57
+uacounty09:Gwynedd,6480,7940,52.99
+uacounty09:Conwy,6770,8430,56.14
+uacounty09:Denbighshire,5760,7200,58.41
+uacounty09:Flintshire,6650,8270,52.76
+uacounty09:Wrexham,6490,7980,54.11
+uacounty09:Powys,6060,7440,54.84
+uacounty09:Ceredigion,3220,3990,55.72
+uacounty09:Pembrokeshire,6220,7830,52.65
+uacounty09:Carmarthenshire,9530,11870,55.64
+uacounty09:Swansea,11960,14720,59.52
+uacounty09:Neath Port Talbot,8360,10460,57.58
+uacounty09:Bridgend,6560,8190,56.76
+uacounty09:The Vale of Glamorgan,4900,6000,58.26
+uacounty09:Cardiff,13710,16450,62.27
+"uacounty09:Rhondda, Cynon, Taff",13300,16630,55.22
+uacounty09:Merthyr Tydfil,3160,3870,53.75
+uacounty09:Caerphilly,9520,11980,55.37
+uacounty09:Blaenau Gwent,4400,5470,53.5
+uacounty09:Torfaen,4730,5920,52.59
+uacounty09:Monmouthshire,3400,4160,54.9
+uacounty09:Newport,6890,8360,57.73
+ualad09:Darlington,5160,6310,51.46
+ualad09:County Durham,28590,35460,49.57
+ualad09:Hartlepool,5860,7370,49.81
+ualad09:Middlesbrough,7890,9590,52.89
+ualad09:Northumberland,14340,17610,47.62
+ualad09:Redcar and Cleveland,7660,9520,49.61
+ualad09:Stockton-on-Tees,8620,10650,50.2
+ualad09:Gateshead,12070,14840,50.34
+ualad09:Newcastle upon Tyne,14270,17090,55.88
+ualad09:North Tyneside,10920,13330,50.67
+ualad09:South Tyneside,10240,12550,49.65
+ualad09:Sunderland,17800,22250,50.6
+ualad09:Blackburn with Darwen,6850,8630,64.87
+ualad09:Blackpool,9800,11800,57.94
+ualad09:Cheshire East,11690,14080,50.34
+ualad09:Cheshire West and Chester,12080,14750,53.25
+ualad09:Halton,6030,7520,55.75
+ualad09:Warrington,7290,8890,52.52
+ualad09:Allerdale,4310,5240,49.1
+ualad09:Barrow-in-Furness,3420,4200,55.13
+ualad09:Carlisle,4210,5000,52.99
+ualad09:Copeland,2900,3550,50.24
+ualad09:Eden,1640,1980,51.28
+ualad09:South Lakeland,3510,4170,50.87
+ualad09:Bolton,13460,16620,57.65
+ualad09:Bury,7580,9150,54.9
+ualad09:Manchester,24260,28540,68.56
+ualad09:Oldham,10460,12610,55.51
+ualad09:Rochdale,10600,12900,58.07
+ualad09:Salford,12380,14700,56.29
+ualad09:Stockport,11160,13370,57.02
+ualad09:Tameside,10840,13190,54.28
+ualad09:Trafford,7830,9240,57.19
+ualad09:Wigan,15260,19040,50.12
+ualad09:Burnley,4630,5580,55.01
+ualad09:Chorley,4050,4980,52.64
+ualad09:Fylde,3370,4050,53.5
+ualad09:Hyndburn,4070,4990,56.59
+ualad09:Lancaster,6260,7650,52.68
+ualad09:Pendle,4520,5570,60.99
+ualad09:Preston,5760,7030,61.41
+ualad09:Ribble Valley,1610,1890,51.49
+ualad09:Rossendale,3180,3860,51.94
+ualad09:South Ribble,3710,4540,52.24
+ualad09:West Lancashire,5280,6580,51.95
+ualad09:Wyre,5560,7010,52.99
+ualad09:Knowsley,10490,12950,58.66
+ualad09:Liverpool,30430,36490,61.25
+ualad09:Sefton,15600,18920,55.91
+ualad09:St. Helens,9180,11480,54.3
+ualad09:Wirral,16630,19980,57.09
+ualad09:East Riding of Yorkshire,14820,18760,47.31
+"ualad09:Kingston upon Hull, City of",15670,19390,52.22
+ualad09:North East Lincolnshire,8560,10660,50.81
+ualad09:North Lincolnshire,7650,9600,48.71
+ualad09:York,5950,7120,48.8
+ualad09:Craven,2130,2540,46.13
+ualad09:Hambleton,2870,3540,46.39
+ualad09:Harrogate,4620,5460,46.17
+ualad09:Richmondshire,1360,1670,48.83
+ualad09:Ryedale,2090,2580,47.58
+ualad09:Scarborough,6210,7720,51.65
+ualad09:Selby,2590,3250,48.88
+ualad09:Barnsley,11740,14660,50.09
+ualad09:Doncaster,14890,18580,49.91
+ualad09:Rotherham,13140,16680,50.21
+ualad09:Sheffield,26800,32980,51.81
+ualad09:Bradford,23590,29050,57.75
+ualad09:Calderdale,8680,10510,52.18
+ualad09:Kirklees,17190,21100,54.67
+ualad09:Leeds,30530,36580,52.36
+ualad09:Wakefield,14740,18110,50.15
+ualad09:Derby,10400,12710,55.67
+ualad09:Leicester,16440,20650,77.72
+ualad09:Nottingham,13510,16090,59.36
+ualad09:Rutland,980,1190,46.68
+ualad09:Amber Valley,5150,6390,50.16
+ualad09:Bolsover,3690,4600,49.03
+ualad09:Chesterfield,5230,6460,50.9
+ualad09:Derbyshire Dales,2370,2850,49.09
+ualad09:Erewash,4770,5900,47.17
+ualad09:High Peak,3270,3930,51.81
+ualad09:North East Derbyshire,4510,5610,48.32
+ualad09:South Derbyshire,2810,3510,48.92
+ualad09:Blaby,2930,3680,50.84
+ualad09:Charnwood,5340,6550,52.74
+ualad09:Harborough,2350,2850,49.6
+ualad09:Hinckley and Bosworth,3820,4750,47.58
+ualad09:Melton,1520,1850,46.93
+ualad09:North West Leicestershire,3270,4050,50.03
+ualad09:Oadby and Wigston,2080,2590,54.63
+ualad09:Boston,3210,4150,51.23
+ualad09:East Lindsey,8960,11940,52.37
+ualad09:Lincoln,4070,4940,53.38
+ualad09:North Kesteven,4220,5420,47.97
+ualad09:South Holland,4220,5430,47.02
+ualad09:South Kesteven,4860,6020,48.69
+ualad09:West Lindsey,3750,4750,50.15
+ualad09:Corby,2280,2740,51.09
+ualad09:Daventry,2100,2580,51.04
+ualad09:East Northamptonshire,3120,3810,47.3
+ualad09:Kettering,3370,4110,52.57
+ualad09:Northampton,7410,8880,58.11
+ualad09:South Northamptonshire,2160,2680,51.25
+ualad09:Wellingborough,3130,3840,56.23
+ualad09:Ashfield,5310,6680,51.07
+ualad09:Bassetlaw,4840,6020,50.46
+ualad09:Broxtowe,4230,5200,50.21
+ualad09:Gedling,4100,5030,51.42
+ualad09:Mansfield,4600,5680,51.24
+ualad09:Newark and Sherwood,4250,5210,49.86
+ualad09:Rushcliffe,3000,3630,49.86
+"ualad09:Herefordshire, County of",7560,9360,54.55
+ualad09:Shropshire,12880,15850,52.93
+ualad09:Stoke-on-Trent,12780,15720,50.39
+ualad09:Telford and Wrekin,7230,9090,55.56
+ualad09:Cannock Chase,4410,5570,51.4
+ualad09:East Staffordshire,3960,4840,51.98
+ualad09:Lichfield,3650,4570,50.24
+ualad09:Newcastle-under-Lyme,5180,6350,48.41
+ualad09:South Staffordshire,4530,5750,48.34
+ualad09:Stafford,4090,4950,49.51
+ualad09:Staffordshire Moorlands,3800,4700,48.98
+ualad09:Tamworth,3300,4160,49.61
+ualad09:North Warwickshire,2620,3270,48.59
+ualad09:Nuneaton and Bedworth,5260,6570,53.71
+ualad09:Rugby,3110,3750,53.37
+ualad09:Stratford-on-Avon,4240,5200,50.33
+ualad09:Warwick,4250,5060,53.3
+ualad09:Birmingham,54200,66250,64.44
+ualad09:Coventry,14520,17530,61.22
+ualad09:Dudley,16370,20860,50.89
+ualad09:Sandwell,19180,24050,59.17
+ualad09:Solihull,7750,9450,53.6
+ualad09:Walsall,15480,19620,56.72
+ualad09:Wolverhampton,14500,17920,56.63
+ualad09:Bromsgrove,2990,3660,47.1
+ualad09:Malvern Hills,2940,3620,51.57
+ualad09:Redditch,3290,4090,55.09
+ualad09:Worcester,3440,4130,55.23
+ualad09:Wychavon,4220,5270,53.05
+ualad09:Wyre Forest,4730,5940,52.05
+ualad09:Bedford,5230,6240,55.78
+ualad09:Central Bedfordshire,7110,8630,50.96
+ualad09:Luton,7120,8920,67.69
+ualad09:Peterborough,6900,8470,60.27
+ualad09:Southend-on-Sea,7730,9220,57.55
+ualad09:Thurrock,5360,6570,58.24
+ualad09:Cambridge,2730,3170,60.85
+ualad09:East Cambridgeshire,2640,3260,53.78
+ualad09:Fenland,4810,6200,52.42
+ualad09:Huntingdonshire,4470,5480,49.69
+ualad09:South Cambridgeshire,3280,3980,53.15
+ualad09:Basildon,7040,8690,56.48
+ualad09:Braintree,5330,6550,52
+ualad09:Brentwood,2030,2360,50.7
+ualad09:Castle Point,4020,5130,51.09
+ualad09:Chelmsford,4500,5350,51.56
+ualad09:Colchester,5310,6420,55.13
+ualad09:Epping Forest,4380,5280,56.1
+ualad09:Harlow,3230,3920,52.24
+ualad09:Maldon,2400,2970,53.13
+ualad09:Rochford,2900,3610,50.55
+ualad09:Tendring,9040,11400,53.5
+ualad09:Uttlesford,2110,2570,49.48
+ualad09:Broxbourne,3120,3780,57.24
+ualad09:Dacorum,3960,4750,55.35
+ualad09:East Hertfordshire,3250,3890,53.72
+ualad09:Hertsmere,3100,3670,61.78
+ualad09:North Hertfordshire,3850,4550,50.49
+ualad09:St Albans,2870,3380,57
+ualad09:Stevenage,2970,3600,53.82
+ualad09:Three Rivers,2210,2580,58.7
+ualad09:Watford,2430,2900,61.78
+ualad09:Welwyn Hatfield,3050,3570,54.34
+ualad09:Breckland,5760,7330,49.67
+ualad09:Broadland,4480,5510,47.68
+ualad09:Great Yarmouth,6080,7700,49.4
+ualad09:King`s Lynn and West Norfolk,7340,9410,50.51
+ualad09:North Norfolk,5640,7190,50.63
+ualad09:Norwich,6410,7690,53.98
+ualad09:South Norfolk,4510,5730,49.82
+ualad09:Babergh,3220,3950,49.57
+ualad09:Forest Heath,2160,2700,51.91
+ualad09:Ipswich,5310,6420,55.92
+ualad09:Mid Suffolk,3250,4060,50.42
+ualad09:St Edmundsbury,3580,4340,48.19
+ualad09:Suffolk Coastal,4440,5470,52.28
+ualad09:Waveney,6460,8160,50.46
+ualad09:Camden,8400,9540,85.81
+ualad09:City of London,150,170,77.19
+ualad09:Hackney,10340,12070,87.23
+ualad09:Hammersmith and Fulham,6410,7230,81.93
+ualad09:Haringey,9960,11820,85.01
+ualad09:Islington,9130,10520,81.77
+ualad09:Kensington and Chelsea,5920,6690,87.17
+ualad09:Lambeth,10900,12320,80.84
+ualad09:Lewisham,9580,10970,72.94
+ualad09:Newham,11640,14440,89.04
+ualad09:Southwark,10760,12260,80.24
+ualad09:Tower Hamlets,10270,12470,88.54
+ualad09:Wandsworth,9070,10430,76.19
+ualad09:Westminster,8260,9480,93.08
+ualad09:Barking and Dagenham,7620,9180,67.29
+ualad09:Barnet,11240,13470,83.31
+ualad09:Bexley,6850,8150,59.08
+ualad09:Brent,12270,14860,90.42
+ualad09:Bromley,8550,10020,62.47
+ualad09:Croydon,10910,12930,73.62
+ualad09:Ealing,11890,14420,91.94
+ualad09:Enfield,11400,14110,77.81
+ualad09:Greenwich,8960,10720,75.76
+ualad09:Harrow,8140,10120,95.36
+ualad09:Havering,8500,10210,57
+ualad09:Hillingdon,7810,9390,76.09
+ualad09:Hounslow,7940,9680,82.77
+ualad09:Kingston upon Thames,3840,4520,73.32
+ualad09:Merton,5390,6450,72.9
+ualad09:Redbridge,9370,11650,81.97
+ualad09:Richmond upon Thames,4080,4640,68.81
+ualad09:Sutton,5360,6240,62.57
+ualad09:Waltham Forest,9090,11020,74.44
+ualad09:Bracknell Forest,2640,3170,57.41
+ualad09:Brighton and Hove,10620,12270,62.09
+ualad09:Isle of Wight,7510,9260,51.19
+ualad09:Medway,9040,11040,54.71
+ualad09:Milton Keynes,6950,8500,60.67
+ualad09:Portsmouth,7760,9120,56.66
+ualad09:Reading,4670,5690,65.61
+ualad09:Slough,4250,5200,74.27
+ualad09:Southampton,8910,10550,57.76
+ualad09:West Berkshire,3570,4340,51.62
+ualad09:Windsor and Maidenhead,3430,4040,55.69
+ualad09:Wokingham,2510,3030,53.04
+ualad09:Aylesbury Vale,4180,4980,55.31
+ualad09:Chiltern,1870,2220,53.72
+ualad09:South Bucks,1500,1800,57.76
+ualad09:Wycombe,4120,5020,58.47
+ualad09:Eastbourne,4850,5710,55.99
+ualad09:Hastings,4960,5930,59.54
+ualad09:Lewes,3890,4710,53.37
+ualad09:Rother,4540,5550,52.83
+ualad09:Wealden,5100,6260,50.94
+ualad09:Basingstoke and Deane,3890,4720,52.67
+ualad09:East Hampshire,2910,3470,50.22
+ualad09:Eastleigh,3290,3990,51.99
+ualad09:Fareham,2960,3540,46.57
+ualad09:Gosport,2720,3250,48.61
+ualad09:Hart,1490,1780,55.91
+ualad09:Havant,5200,6410,52.85
+ualad09:New Forest,6020,7370,50.39
+ualad09:Rushmoor,2930,3850,84.67
+ualad09:Test Valley,3210,3910,50.22
+ualad09:Winchester,3040,3610,52.17
+ualad09:Ashford,3970,5020,56.32
+ualad09:Canterbury,5800,7010,54.19
+ualad09:Dartford,2700,3240,51.97
+ualad09:Dover,5000,6070,53.72
+ualad09:Gravesham,3640,4430,55.94
+ualad09:Maidstone,4720,5830,54.46
+ualad09:Sevenoaks,3110,3740,51.91
+ualad09:Shepway,5320,6580,58.43
+ualad09:Swale,5540,6990,54.49
+ualad09:Thanet,8340,10160,56.14
+ualad09:Tonbridge and Malling,3260,4000,52.97
+ualad09:Tunbridge Wells,3190,3780,53.6
+ualad09:Cherwell,3530,4260,52.93
+ualad09:Oxford,3650,4210,62.62
+ualad09:South Oxfordshire,3000,3590,51.32
+ualad09:Vale of White Horse,2780,3360,50.35
+ualad09:West Oxfordshire,2650,3190,51
+ualad09:Elmbridge,2730,3150,59.02
+ualad09:Epsom and Ewell,1490,1760,64.18
+ualad09:Guildford,2670,3170,56.33
+ualad09:Mole Valley,1960,2280,54.38
+ualad09:Reigate and Banstead,3060,3540,57.14
+ualad09:Runnymede,2060,2400,54.42
+ualad09:Spelthorne,2390,2800,56.2
+ualad09:Surrey Heath,1600,1920,55.19
+ualad09:Tandridge,1910,2190,56.33
+ualad09:Waverley,2910,3390,52.83
+ualad09:Woking,2120,2470,61.11
+ualad09:Adur,2720,3290,52.1
+ualad09:Arun,7160,8660,51.92
+ualad09:Chichester,4120,4980,51.73
+ualad09:Crawley,3180,3770,60.77
+ualad09:Horsham,3170,3750,50.67
+ualad09:Mid Sussex,3280,3800,52.07
+ualad09:Worthing,4290,5060,54.18
+ualad09:Bath and North East Somerset,5620,6690,52.65
+ualad09:Bournemouth,8600,10090,56.74
+"ualad09:Bristol, City of",16030,18980,61.65
+ualad09:Cornwall,27710,35000,53.31
+ualad09:Isles of Scilly,50,50,49.38
+ualad09:North Somerset,8110,9780,52.42
+ualad09:Plymouth,10800,13000,54.86
+ualad09:Poole,6000,7270,52.02
+ualad09:South Gloucestershire,7450,9130,51.99
+ualad09:Swindon,6750,8320,59.2
+ualad09:Torbay,8750,10820,57.53
+ualad09:Wiltshire,14220,17260,51.65
+ualad09:East Devon,5550,6850,51.75
+ualad09:Exeter,4190,4910,53.38
+ualad09:Mid Devon,2990,3710,52.58
+ualad09:North Devon,4520,5660,52.29
+ualad09:South Hams,3370,4090,56.49
+ualad09:Teignbridge,5870,7280,53.05
+ualad09:Torridge,3240,4130,51.38
+ualad09:West Devon,2250,2790,52.74
+ualad09:Christchurch,2280,2800,50.47
+ualad09:East Dorset,3160,3970,47.98
+ualad09:North Dorset,2310,2910,49.87
+ualad09:Purbeck,1840,2270,48.11
+ualad09:West Dorset,4030,4940,50.71
+ualad09:Weymouth and Portland,2910,3500,53.37
+ualad09:Cheltenham,3470,4060,55.08
+ualad09:Cotswold,2770,3390,49.24
+ualad09:Forest of Dean,3560,4470,52.37
+ualad09:Gloucester,4420,5360,55.93
+ualad09:Stroud,3780,4550,52.17
+ualad09:Tewkesbury,2620,3180,51.72
+ualad09:Mendip,4130,5000,53.41
+ualad09:Sedgemoor,4920,6120,51.79
+ualad09:South Somerset,6310,7770,49.96
+ualad09:Taunton Deane,4150,4960,52.65
+ualad09:West Somerset,1920,2390,55.39
+ualad09:Anglesey,3820,4790,55.57
+ualad09:Gwynedd,6480,7940,52.99
+ualad09:Conwy,6770,8430,56.14
+ualad09:Denbighshire,5760,7200,58.41
+ualad09:Flintshire,6650,8270,52.76
+ualad09:Wrexham,6490,7980,54.11
+ualad09:Powys,6060,7440,54.84
+ualad09:Ceredigion,3220,3990,55.72
+ualad09:Pembrokeshire,6220,7830,52.65
+ualad09:Carmarthenshire,9530,11870,55.64
+ualad09:Swansea,11960,14720,59.52
+ualad09:Neath Port Talbot,8360,10460,57.58
+ualad09:Bridgend,6560,8190,56.76
+ualad09:The Vale of Glamorgan,4900,6000,58.26
+ualad09:Cardiff,13710,16450,62.27
+"ualad09:Rhondda, Cynon, Taff",13300,16630,55.22
+ualad09:Merthyr Tydfil,3160,3870,53.75
+ualad09:Caerphilly,9520,11980,55.37
+ualad09:Blaenau Gwent,4400,5470,53.5
+ualad09:Torfaen,4730,5920,52.59
+ualad09:Monmouthshire,3400,4160,54.9
+ualad09:Newport,6890,8360,57.73

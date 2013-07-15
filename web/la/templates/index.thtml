@@ -1,0 +1,72 @@
+
+
+@@INCLUDE@@ @_SEP_@@_TEMPLATE_ROOT_@@_SEP_@header.thtml 
+
+<body class="pure-skin-mine">
+
+<!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+
+<div id="layout" style='padding:10px'>
+
+        
+@@INCLUDE@@ @_SEP_@@_TEMPLATE_ROOT_@@_SEP_@reg_menu.thtml
+        <div class="pure-menu pure-menu-open pure-menu-horizontal"></div>
+        
+               <h1 class="pure-u">Local Authority FRS Reweighting Demo : @_LA-NAME_@</h1>
+       
+        
+        <div class='content' >                                                                                                                                                                   
+                <div>
+                <p>
+                This is a simple demonstator which shows how you can reweight the 
+                <a href='http://research.dwp.gov.uk/asd/frs/'>Family Resources Survey</a> dataset to so that when aggregated
+                the data matches the characteristics of an English or Welsh Local Authority (as recorded in the 2011 Census). 
+                </p>
+                
+                <p>The Council data is extracted from <a href='http://www.nomisweb.co.uk/'>Nomis</a>. </p>
+                
+                <p>The program generates a set of weights which are the 
+                smallest distance (in some sense) from uniform weights.
+                See <a href='http://ideas.repec.org/p/nzt/nztwps/03-17.html'>Creedy [2003]</a> and 
+                <a href='http://users.stat.umn.edu/~gmeeden/classes/8913/calibrate.pdf'>Deville and Sarndal (1992)</a> for a discussion.</p>
+                
+                <p>To use, select a Council for the menu at the top, check the boxes below for
+                   each criterion you want the data to match, and press 'generate'. If the reweighting succeeds,
+                   a .csv datafile will be created with a household reference numbers and weights; this can be merged
+                   with FRS data using the reference as the key. If the reweighting fails, try adjusting the parameters at the <a href='#settings'>bottom of this page</a></p>
+                </p>
+                <p>
+                This is very much a prototype. To do (at least):
+                </p>
+                <ul>
+                        <li>Add extra targets, esp. benefit receipts, council tax bands;</li>
+                        <li>Generate uprating factors for wages, unearned income, housing costs (needs research!);</li>
+                        <li>Fix multiple user-interface problems (error-checking, menus too long ..), show/hide tables;</li>
+                        <li>Better error handling and progress indication.</li>
+                        
+                </ul>
+                <p>
+                The source code and support files <a href='http://virtual-worlds-research.com/downloads/#lawr'>are available</a>.
+                </p>
+                </div>
+                        <div class='pure-u'>
+@_INPUT-SECTION_@
+                        </div>
+                        <div class='pure-u'>
+                        <h4>Version Information</h4>
+                        <pre>
+                        $Revision: 16246 $
+                        $Date: 2013-07-05 11:58:31 +0100 (Fri, 05 Jul 2013) $
+                        </pre>
+                        </div>
+                        <div class='pure-u'>
+                        @@INCLUDE@@ @_SEP_@@_TEMPLATE_ROOT_@@_SEP_@footer.thtml
+                        </div>
+                
+        </div>
+</div>
+
+</body>
+</html>

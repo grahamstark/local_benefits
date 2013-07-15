@@ -1,0 +1,530 @@
+2011 census qs101ew - residence Type,,,,
+ONS Crown Copyright Reserved [from Nomis on 13 April 2013],,,,
+,,,,
+population,All usual residents; communal establishments with persons sleeping rough identified,,,
+units,Communal establishments and Persons,,,
+date,2011,,,
+,,,,
+Area,All categories: Residence type,Lives in a household,Lives in a communal establishment,Communal establishments with persons sleeping rough
+uacounty09:Darlington,"105,564","104,111","1,453",0
+uacounty09:County Durham,"513,242","500,288","12,954",8
+uacounty09:Hartlepool,"92,028","91,091",937,0
+uacounty09:Middlesbrough,"138,412","136,156","2,256",0
+uacounty09:Northumberland,"316,028","310,591","5,437",1
+uacounty09:Redcar and Cleveland,"135,177","133,929","1,248",0
+uacounty09:Stockton-on-Tees,"191,610","187,959","3,651",1
+uacounty09:Gateshead,"200,214","197,726","2,488",1
+uacounty09:Newcastle upon Tyne,"280,177","271,212","8,965",5
+uacounty09:North Tyneside,"200,801","199,142","1,659",0
+uacounty09:South Tyneside,"148,127","146,729","1,398",0
+uacounty09:Sunderland,"275,506","271,884","3,622",1
+uacounty09:Blackburn with Darwen,"147,489","145,827","1,662",0
+uacounty09:Blackpool,"142,065","137,960","4,105",4
+uacounty09:Cheshire East,"370,127","365,065","5,062",0
+uacounty09:Cheshire West and Chester,"329,608","326,236","3,372",2
+uacounty09:Halton,"125,746","124,874",872,0
+uacounty09:Warrington,"202,228","198,828","3,400",0
+uacounty09:Cumbria,"499,858","490,939","8,919",5
+uacounty09:Bolton,"276,786","274,855","1,931",1
+uacounty09:Bury,"185,060","183,025","2,035",0
+uacounty09:Manchester,"503,127","481,030","22,097",1
+uacounty09:Oldham,"224,897","223,170","1,727",0
+uacounty09:Rochdale,"211,699","209,552","2,147",3
+uacounty09:Salford,"233,933","228,346","5,587",0
+uacounty09:Stockport,"283,275","280,915","2,360",0
+uacounty09:Tameside,"219,324","217,736","1,588",1
+uacounty09:Trafford,"226,578","225,277","1,301",0
+uacounty09:Wigan,"317,849","315,794","2,055",1
+uacounty09:Lancashire,"1,171,339","1,143,277","28,062",7
+uacounty09:Knowsley,"145,893","144,990",903,0
+uacounty09:Liverpool,"466,415","450,085","16,330",2
+uacounty09:Sefton,"273,790","269,697","4,093",1
+uacounty09:St. Helens,"175,308","173,958","1,350",1
+uacounty09:Wirral,"319,783","316,384","3,399",0
+uacounty09:East Riding of Yorkshire,"334,179","326,951","7,228",0
+"uacounty09:Kingston upon Hull, City of","256,406","252,748","3,658",1
+uacounty09:North East Lincolnshire,"159,616","157,786","1,830",0
+uacounty09:North Lincolnshire,"167,446","165,871","1,575",1
+uacounty09:York,"198,051","190,392","7,659",2
+uacounty09:North Yorkshire,"598,376","582,624","15,752",6
+uacounty09:Barnsley,"231,221","229,539","1,682",0
+uacounty09:Doncaster,"302,402","297,200","5,202",1
+uacounty09:Rotherham,"257,280","255,334","1,946",5
+uacounty09:Sheffield,"552,698","539,064","13,634",2
+uacounty09:Bradford,"522,452","515,315","7,137",0
+uacounty09:Calderdale,"203,826","202,376","1,450",1
+uacounty09:Kirklees,"422,458","416,840","5,618",1
+uacounty09:Leeds,"751,485","731,373","20,112",1
+uacounty09:Wakefield,"325,837","322,264","3,573",3
+uacounty09:Derby,"248,752","244,625","4,127",1
+uacounty09:Leicester,"329,839","321,527","8,312",1
+uacounty09:Nottingham,"305,680","289,738","15,942",3
+uacounty09:Rutland,"37,369","34,252","3,117",0
+uacounty09:Derbyshire,"769,686","760,840","8,846",1
+uacounty09:Leicestershire,"650,489","636,274","14,215",0
+uacounty09:Lincolnshire,"713,653","698,748","14,905",5
+uacounty09:Northamptonshire,"691,952","681,850","10,102",3
+uacounty09:Nottinghamshire,"785,802","774,338","11,464",3
+"uacounty09:Herefordshire, County of","183,477","180,595","2,882",1
+uacounty09:Shropshire,"306,129","298,183","7,946",2
+uacounty09:Stoke-on-Trent,"249,008","246,075","2,933",2
+uacounty09:Telford and Wrekin,"166,641","164,440","2,201",0
+uacounty09:Staffordshire,"848,489","832,952","15,537",6
+uacounty09:Warwickshire,"545,474","537,501","7,973",4
+uacounty09:Birmingham,"1,073,045","1,051,366","21,679",1
+uacounty09:Coventry,"316,960","307,730","9,230",0
+uacounty09:Dudley,"312,925","310,398","2,527",0
+uacounty09:Sandwell,"308,063","305,928","2,135",0
+uacounty09:Solihull,"206,674","205,087","1,587",1
+uacounty09:Walsall,"269,323","267,397","1,926",1
+uacounty09:Wolverhampton,"249,470","245,526","3,944",4
+uacounty09:Worcestershire,"566,169","556,357","9,812",2
+uacounty09:Bedford,"157,479","154,536","2,943",0
+uacounty09:Central Bedfordshire,"254,381","252,120","2,261",0
+uacounty09:Luton,"203,201","201,549","1,652",0
+uacounty09:Peterborough,"183,631","181,827","1,804",1
+uacounty09:Southend-on-Sea,"173,658","171,489","2,169",0
+uacounty09:Thurrock,"157,705","157,072",633,0
+uacounty09:Cambridgeshire,"621,210","598,066","23,144",5
+uacounty09:Essex,"1,393,587","1,375,440","18,147",3
+uacounty09:Hertfordshire,"1,116,062","1,101,351","14,711",2
+uacounty09:Norfolk,"857,888","841,042","16,846",3
+uacounty09:Suffolk,"728,163","714,113","14,050",0
+uacounty09:Camden,"220,338","212,443","7,895",0
+uacounty09:City of London,"7,375","7,187",188,0
+uacounty09:Hackney,"246,270","244,433","1,837",0
+uacounty09:Hammersmith and Fulham,"182,493","180,652","1,841",0
+uacounty09:Haringey,"254,926","253,236","1,690",0
+uacounty09:Islington,"206,125","200,134","5,991",0
+uacounty09:Kensington and Chelsea,"158,649","155,939","2,710",1
+uacounty09:Lambeth,"303,086","300,101","2,985",2
+uacounty09:Lewisham,"275,885","273,342","2,543",1
+uacounty09:Newham,"307,984","306,009","1,975",1
+uacounty09:Southwark,"288,283","282,560","5,723",1
+uacounty09:Tower Hamlets,"254,096","250,343","3,753",0
+uacounty09:Wandsworth,"306,995","301,648","5,347",0
+uacounty09:Westminster,"219,396","213,208","6,188",2
+uacounty09:Barking and Dagenham,"185,911","184,901","1,010",0
+uacounty09:Barnet,"356,386","352,597","3,789",1
+uacounty09:Bexley,"231,997","230,902","1,095",1
+uacounty09:Brent,"311,215","308,895","2,320",1
+uacounty09:Bromley,"309,392","307,023","2,369",0
+uacounty09:Croydon,"363,378","360,230","3,148",0
+uacounty09:Ealing,"338,449","334,725","3,724",0
+uacounty09:Enfield,"312,466","310,066","2,400",0
+uacounty09:Greenwich,"254,557","249,991","4,566",0
+uacounty09:Harrow,"239,056","236,970","2,086",0
+uacounty09:Havering,"237,232","235,671","1,561",1
+uacounty09:Hillingdon,"273,936","267,227","6,709",0
+uacounty09:Hounslow,"253,957","251,961","1,996",2
+uacounty09:Kingston upon Thames,"160,060","156,358","3,702",0
+uacounty09:Merton,"199,693","198,217","1,476",1
+uacounty09:Redbridge,"278,970","277,323","1,647",1
+uacounty09:Richmond upon Thames,"186,990","184,098","2,892",1
+uacounty09:Sutton,"190,146","188,695","1,451",0
+uacounty09:Waltham Forest,"258,249","256,615","1,634",0
+uacounty09:Bracknell Forest,"113,205","110,512","2,693",0
+uacounty09:Brighton and Hove,"273,369","266,059","7,310",1
+uacounty09:Isle of Wight,"138,265","133,713","4,552",1
+uacounty09:Medway,"263,925","259,988","3,937",0
+uacounty09:Milton Keynes,"248,821","246,715","2,106",0
+uacounty09:Portsmouth,"205,056","200,052","5,004",4
+uacounty09:Reading,"155,698","151,330","4,368",0
+uacounty09:Slough,"140,205","139,697",508,0
+uacounty09:Southampton,"236,882","228,459","8,423",2
+uacounty09:West Berkshire,"153,822","150,878","2,944",0
+uacounty09:Windsor and Maidenhead,"144,560","141,065","3,495",1
+uacounty09:Wokingham,"154,380","151,740","2,640",0
+uacounty09:Buckinghamshire,"505,283","497,299","7,984",1
+uacounty09:East Sussex,"526,671","515,598","11,073",3
+uacounty09:Hampshire,"1,317,788","1,296,211","21,577",10
+uacounty09:Kent,"1,463,740","1,435,745","27,995",4
+uacounty09:Oxfordshire,"653,798","624,099","29,699",3
+uacounty09:Surrey,"1,132,390","1,105,800","26,590",3
+uacounty09:West Sussex,"806,892","791,540","15,352",4
+uacounty09:Bath and North East Somerset,"176,016","169,977","6,039",0
+uacounty09:Bournemouth,"183,491","179,138","4,353",1
+"uacounty09:Bristol, City of","428,234","418,814","9,420",0
+uacounty09:Cornwall,"532,273","523,432","8,841",6
+uacounty09:Isles of Scilly,"2,203","2,123",80,0
+uacounty09:North Somerset,"202,566","199,225","3,341",1
+uacounty09:Plymouth,"256,384","251,100","5,284",2
+uacounty09:Poole,"147,645","145,103","2,542",1
+uacounty09:South Gloucestershire,"262,767","258,207","4,560",0
+uacounty09:Swindon,"209,156","207,858","1,298",0
+uacounty09:Torbay,"130,959","127,908","3,051",0
+uacounty09:Wiltshire,"470,981","457,954","13,027",2
+uacounty09:Devon,"746,399","727,737","18,662",4
+uacounty09:Dorset,"412,905","403,366","9,539",0
+uacounty09:Gloucestershire,"596,984","586,018","10,966",1
+uacounty09:Somerset,"529,972","517,124","12,848",1
+uacounty09:Anglesey,"69,751","68,941",810,0
+uacounty09:Gwynedd,"121,874","117,974","3,900",0
+uacounty09:Conwy,"115,228","112,531","2,697",6
+uacounty09:Denbighshire,"93,734","92,483","1,251",0
+uacounty09:Flintshire,"152,506","151,679",827,0
+uacounty09:Wrexham,"134,844","133,244","1,600",0
+uacounty09:Powys,"132,976","131,047","1,929",1
+uacounty09:Ceredigion,"75,922","71,444","4,478",0
+uacounty09:Pembrokeshire,"122,439","120,545","1,894",0
+uacounty09:Carmarthenshire,"183,777","181,227","2,550",0
+uacounty09:Swansea,"239,023","234,363","4,660",1
+uacounty09:Neath Port Talbot,"139,812","138,682","1,130",0
+uacounty09:Bridgend,"139,178","136,842","2,336",1
+uacounty09:The Vale of Glamorgan,"126,336","124,259","2,077",0
+uacounty09:Cardiff,"346,090","334,551","11,539",0
+"uacounty09:Rhondda, Cynon, Taff","234,410","231,885","2,525",0
+uacounty09:Merthyr Tydfil,"58,802","58,334",468,0
+uacounty09:Caerphilly,"178,806","177,755","1,051",1
+uacounty09:Blaenau Gwent,"69,814","69,239",575,0
+uacounty09:Torfaen,"91,075","90,360",715,0
+uacounty09:Monmouthshire,"91,323","89,694","1,629",0
+uacounty09:Newport,"145,736","144,103","1,633",0
+ualad09:Darlington,"105,564","104,111","1,453",0
+ualad09:County Durham,"513,242","500,288","12,954",8
+ualad09:Hartlepool,"92,028","91,091",937,0
+ualad09:Middlesbrough,"138,412","136,156","2,256",0
+ualad09:Northumberland,"316,028","310,591","5,437",1
+ualad09:Redcar and Cleveland,"135,177","133,929","1,248",0
+ualad09:Stockton-on-Tees,"191,610","187,959","3,651",1
+ualad09:Gateshead,"200,214","197,726","2,488",1
+ualad09:Newcastle upon Tyne,"280,177","271,212","8,965",5
+ualad09:North Tyneside,"200,801","199,142","1,659",0
+ualad09:South Tyneside,"148,127","146,729","1,398",0
+ualad09:Sunderland,"275,506","271,884","3,622",1
+ualad09:Blackburn with Darwen,"147,489","145,827","1,662",0
+ualad09:Blackpool,"142,065","137,960","4,105",4
+ualad09:Cheshire East,"370,127","365,065","5,062",0
+ualad09:Cheshire West and Chester,"329,608","326,236","3,372",2
+ualad09:Halton,"125,746","124,874",872,0
+ualad09:Warrington,"202,228","198,828","3,400",0
+ualad09:Allerdale,"96,422","94,970","1,452",0
+ualad09:Barrow-in-Furness,"69,087","68,392",695,0
+ualad09:Carlisle,"107,524","106,138","1,386",1
+ualad09:Copeland,"70,603","69,312","1,291",0
+ualad09:Eden,"52,564","51,613",951,2
+ualad09:South Lakeland,"103,658","100,514","3,144",2
+ualad09:Bolton,"276,786","274,855","1,931",1
+ualad09:Bury,"185,060","183,025","2,035",0
+ualad09:Manchester,"503,127","481,030","22,097",1
+ualad09:Oldham,"224,897","223,170","1,727",0
+ualad09:Rochdale,"211,699","209,552","2,147",3
+ualad09:Salford,"233,933","228,346","5,587",0
+ualad09:Stockport,"283,275","280,915","2,360",0
+ualad09:Tameside,"219,324","217,736","1,588",1
+ualad09:Trafford,"226,578","225,277","1,301",0
+ualad09:Wigan,"317,849","315,794","2,055",1
+ualad09:Burnley,"87,059","86,117",942,0
+ualad09:Chorley,"107,155","104,277","2,878",1
+ualad09:Fylde,"75,757","74,035","1,722",0
+ualad09:Hyndburn,"80,734","80,088",646,0
+ualad09:Lancaster,"138,375","129,433","8,942",3
+ualad09:Pendle,"89,452","88,846",606,0
+ualad09:Preston,"140,202","134,392","5,810",2
+ualad09:Ribble Valley,"57,132","55,951","1,181",0
+ualad09:Rossendale,"67,982","67,262",720,0
+ualad09:South Ribble,"109,057","108,225",832,0
+ualad09:West Lancashire,"110,685","108,689","1,996",1
+ualad09:Wyre,"107,749","105,962","1,787",0
+ualad09:Knowsley,"145,893","144,990",903,0
+ualad09:Liverpool,"466,415","450,085","16,330",2
+ualad09:Sefton,"273,790","269,697","4,093",1
+ualad09:St. Helens,"175,308","173,958","1,350",1
+ualad09:Wirral,"319,783","316,384","3,399",0
+ualad09:East Riding of Yorkshire,"334,179","326,951","7,228",0
+"ualad09:Kingston upon Hull, City of","256,406","252,748","3,658",1
+ualad09:North East Lincolnshire,"159,616","157,786","1,830",0
+ualad09:North Lincolnshire,"167,446","165,871","1,575",1
+ualad09:York,"198,051","190,392","7,659",2
+ualad09:Craven,"55,409","54,375","1,034",2
+ualad09:Hambleton,"89,140","87,321","1,819",0
+ualad09:Harrogate,"157,869","153,821","4,048",1
+ualad09:Richmondshire,"51,965","47,344","4,621",1
+ualad09:Ryedale,"51,751","50,611","1,140",0
+ualad09:Scarborough,"108,793","106,427","2,366",2
+ualad09:Selby,"83,449","82,725",724,0
+ualad09:Barnsley,"231,221","229,539","1,682",0
+ualad09:Doncaster,"302,402","297,200","5,202",1
+ualad09:Rotherham,"257,280","255,334","1,946",5
+ualad09:Sheffield,"552,698","539,064","13,634",2
+ualad09:Bradford,"522,452","515,315","7,137",0
+ualad09:Calderdale,"203,826","202,376","1,450",1
+ualad09:Kirklees,"422,458","416,840","5,618",1
+ualad09:Leeds,"751,485","731,373","20,112",1
+ualad09:Wakefield,"325,837","322,264","3,573",3
+ualad09:Derby,"248,752","244,625","4,127",1
+ualad09:Leicester,"329,839","321,527","8,312",1
+ualad09:Nottingham,"305,680","289,738","15,942",3
+ualad09:Rutland,"37,369","34,252","3,117",0
+ualad09:Amber Valley,"122,309","121,167","1,142",0
+ualad09:Bolsover,"75,866","75,251",615,0
+ualad09:Chesterfield,"103,788","102,681","1,107",0
+ualad09:Derbyshire Dales,"71,116","69,562","1,554",0
+ualad09:Erewash,"112,081","110,939","1,142",0
+ualad09:High Peak,"90,892","89,867","1,025",0
+ualad09:North East Derbyshire,"99,023","98,240",783,1
+ualad09:South Derbyshire,"94,611","93,133","1,478",0
+ualad09:Blaby,"93,915","92,894","1,021",0
+ualad09:Charnwood,"166,100","158,719","7,381",0
+ualad09:Harborough,"85,382","84,008","1,374",0
+ualad09:Hinckley and Bosworth,"105,078","104,275",803,0
+ualad09:Melton,"50,376","49,916",460,0
+ualad09:North West Leicestershire,"93,468","92,697",771,0
+ualad09:Oadby and Wigston,"56,170","53,765","2,405",0
+ualad09:Boston,"64,637","63,736",901,1
+ualad09:East Lindsey,"136,401","133,400","3,001",1
+ualad09:Lincoln,"93,541","87,880","5,661",0
+ualad09:North Kesteven,"107,766","105,980","1,786",0
+ualad09:South Holland,"88,270","87,409",861,0
+ualad09:South Kesteven,"133,788","132,493","1,295",0
+ualad09:West Lindsey,"89,250","87,850","1,400",3
+ualad09:Corby,"61,255","60,990",265,0
+ualad09:Daventry,"77,843","75,886","1,957",1
+ualad09:East Northamptonshire,"86,765","84,910","1,855",0
+ualad09:Kettering,"93,475","92,521",954,1
+ualad09:Northampton,"212,069","208,463","3,606",0
+ualad09:South Northamptonshire,"85,189","84,497",692,0
+ualad09:Wellingborough,"75,356","74,583",773,1
+ualad09:Ashfield,"119,497","118,213","1,284",1
+ualad09:Bassetlaw,"112,863","109,979","2,884",0
+ualad09:Broxtowe,"109,487","108,570",917,0
+ualad09:Gedling,"113,543","112,759",784,0
+ualad09:Mansfield,"104,466","103,487",979,1
+ualad09:Newark and Sherwood,"114,817","112,526","2,291",0
+ualad09:Rushcliffe,"111,129","108,804","2,325",1
+"ualad09:Herefordshire, County of","183,477","180,595","2,882",1
+ualad09:Shropshire,"306,129","298,183","7,946",2
+ualad09:Stoke-on-Trent,"249,008","246,075","2,933",2
+ualad09:Telford and Wrekin,"166,641","164,440","2,201",0
+ualad09:Cannock Chase,"97,462","96,791",671,0
+ualad09:East Staffordshire,"113,583","111,488","2,095",0
+ualad09:Lichfield,"100,654","98,893","1,761",1
+ualad09:Newcastle-under-Lyme,"123,871","119,708","4,163",4
+ualad09:South Staffordshire,"108,131","106,157","1,974",1
+ualad09:Stafford,"130,869","127,609","3,260",0
+ualad09:Staffordshire Moorlands,"97,106","95,860","1,246",0
+ualad09:Tamworth,"76,813","76,446",367,0
+ualad09:North Warwickshire,"62,014","61,468",546,0
+ualad09:Nuneaton and Bedworth,"125,252","124,410",842,0
+ualad09:Rugby,"100,075","98,180","1,895",2
+ualad09:Stratford-on-Avon,"120,485","118,853","1,632",0
+ualad09:Warwick,"137,648","134,590","3,058",2
+ualad09:Birmingham,"1,073,045","1,051,366","21,679",1
+ualad09:Coventry,"316,960","307,730","9,230",0
+ualad09:Dudley,"312,925","310,398","2,527",0
+ualad09:Sandwell,"308,063","305,928","2,135",0
+ualad09:Solihull,"206,674","205,087","1,587",1
+ualad09:Walsall,"269,323","267,397","1,926",1
+ualad09:Wolverhampton,"249,470","245,526","3,944",4
+ualad09:Bromsgrove,"93,637","90,833","2,804",0
+ualad09:Malvern Hills,"74,631","72,422","2,209",1
+ualad09:Redditch,"84,214","83,745",469,0
+ualad09:Worcester,"98,768","96,854","1,914",0
+ualad09:Wychavon,"116,944","115,545","1,399",0
+ualad09:Wyre Forest,"97,975","96,958","1,017",1
+ualad09:Bedford,"157,479","154,536","2,943",0
+ualad09:Central Bedfordshire,"254,381","252,120","2,261",0
+ualad09:Luton,"203,201","201,549","1,652",0
+ualad09:Peterborough,"183,631","181,827","1,804",1
+ualad09:Southend-on-Sea,"173,658","171,489","2,169",0
+ualad09:Thurrock,"157,705","157,072",633,0
+ualad09:Cambridge,"123,867","107,345","16,522",1
+ualad09:East Cambridgeshire,"83,818","83,056",762,2
+ualad09:Fenland,"95,262","93,934","1,328",0
+ualad09:Huntingdonshire,"169,508","166,952","2,556",0
+ualad09:South Cambridgeshire,"148,755","146,779","1,976",2
+ualad09:Basildon,"174,497","173,372","1,125",0
+ualad09:Braintree,"147,084","145,463","1,621",1
+ualad09:Brentwood,"73,601","72,789",812,0
+ualad09:Castle Point,"88,011","87,385",626,0
+ualad09:Chelmsford,"168,310","166,182","2,128",0
+ualad09:Colchester,"173,074","167,080","5,994",1
+ualad09:Epping Forest,"124,659","123,623","1,036",0
+ualad09:Harlow,"81,944","81,551",393,0
+ualad09:Maldon,"61,629","61,097",532,0
+ualad09:Rochford,"83,287","82,736",551,0
+ualad09:Tendring,"138,048","135,867","2,181",1
+ualad09:Uttlesford,"79,443","78,295","1,148",0
+ualad09:Broxbourne,"93,609","93,267",342,0
+ualad09:Dacorum,"144,847","142,845","2,002",0
+ualad09:East Hertfordshire,"137,687","135,762","1,925",0
+ualad09:Hertsmere,"100,031","98,478","1,553",1
+ualad09:North Hertfordshire,"127,114","125,817","1,297",1
+ualad09:St Albans,"140,664","139,058","1,606",0
+ualad09:Stevenage,"83,957","83,405",552,0
+ualad09:Three Rivers,"87,317","86,324",993,0
+ualad09:Watford,"90,301","89,565",736,0
+ualad09:Welwyn Hatfield,"110,535","106,830","3,705",0
+ualad09:Breckland,"130,491","127,632","2,859",2
+ualad09:Broadland,"124,646","122,931","1,715",0
+ualad09:Great Yarmouth,"97,277","96,230","1,047",0
+ualad09:King`s Lynn and West Norfolk,"147,451","145,253","2,198",0
+ualad09:North Norfolk,"101,499","99,023","2,476",0
+ualad09:Norwich,"132,512","127,754","4,758",1
+ualad09:South Norfolk,"124,012","122,219","1,793",0
+ualad09:Babergh,"87,740","86,170","1,570",0
+ualad09:Forest Heath,"59,748","58,175","1,573",0
+ualad09:Ipswich,"133,384","131,262","2,122",0
+ualad09:Mid Suffolk,"96,731","95,254","1,477",0
+ualad09:St Edmundsbury,"111,008","107,942","3,066",0
+ualad09:Suffolk Coastal,"124,298","121,791","2,507",0
+ualad09:Waveney,"115,254","113,519","1,735",0
+ualad09:Camden,"220,338","212,443","7,895",0
+ualad09:City of London,"7,375","7,187",188,0
+ualad09:Hackney,"246,270","244,433","1,837",0
+ualad09:Hammersmith and Fulham,"182,493","180,652","1,841",0
+ualad09:Haringey,"254,926","253,236","1,690",0
+ualad09:Islington,"206,125","200,134","5,991",0
+ualad09:Kensington and Chelsea,"158,649","155,939","2,710",1
+ualad09:Lambeth,"303,086","300,101","2,985",2
+ualad09:Lewisham,"275,885","273,342","2,543",1
+ualad09:Newham,"307,984","306,009","1,975",1
+ualad09:Southwark,"288,283","282,560","5,723",1
+ualad09:Tower Hamlets,"254,096","250,343","3,753",0
+ualad09:Wandsworth,"306,995","301,648","5,347",0
+ualad09:Westminster,"219,396","213,208","6,188",2
+ualad09:Barking and Dagenham,"185,911","184,901","1,010",0
+ualad09:Barnet,"356,386","352,597","3,789",1
+ualad09:Bexley,"231,997","230,902","1,095",1
+ualad09:Brent,"311,215","308,895","2,320",1
+ualad09:Bromley,"309,392","307,023","2,369",0
+ualad09:Croydon,"363,378","360,230","3,148",0
+ualad09:Ealing,"338,449","334,725","3,724",0
+ualad09:Enfield,"312,466","310,066","2,400",0
+ualad09:Greenwich,"254,557","249,991","4,566",0
+ualad09:Harrow,"239,056","236,970","2,086",0
+ualad09:Havering,"237,232","235,671","1,561",1
+ualad09:Hillingdon,"273,936","267,227","6,709",0
+ualad09:Hounslow,"253,957","251,961","1,996",2
+ualad09:Kingston upon Thames,"160,060","156,358","3,702",0
+ualad09:Merton,"199,693","198,217","1,476",1
+ualad09:Redbridge,"278,970","277,323","1,647",1
+ualad09:Richmond upon Thames,"186,990","184,098","2,892",1
+ualad09:Sutton,"190,146","188,695","1,451",0
+ualad09:Waltham Forest,"258,249","256,615","1,634",0
+ualad09:Bracknell Forest,"113,205","110,512","2,693",0
+ualad09:Brighton and Hove,"273,369","266,059","7,310",1
+ualad09:Isle of Wight,"138,265","133,713","4,552",1
+ualad09:Medway,"263,925","259,988","3,937",0
+ualad09:Milton Keynes,"248,821","246,715","2,106",0
+ualad09:Portsmouth,"205,056","200,052","5,004",4
+ualad09:Reading,"155,698","151,330","4,368",0
+ualad09:Slough,"140,205","139,697",508,0
+ualad09:Southampton,"236,882","228,459","8,423",2
+ualad09:West Berkshire,"153,822","150,878","2,944",0
+ualad09:Windsor and Maidenhead,"144,560","141,065","3,495",1
+ualad09:Wokingham,"154,380","151,740","2,640",0
+ualad09:Aylesbury Vale,"174,137","170,651","3,486",1
+ualad09:Chiltern,"92,635","91,871",764,0
+ualad09:South Bucks,"66,867","65,819","1,048",0
+ualad09:Wycombe,"171,644","168,958","2,686",0
+ualad09:Eastbourne,"99,412","96,968","2,444",0
+ualad09:Hastings,"90,254","88,562","1,692",3
+ualad09:Lewes,"97,502","95,880","1,622",0
+ualad09:Rother,"90,588","88,149","2,439",0
+ualad09:Wealden,"148,915","146,039","2,876",0
+ualad09:Basingstoke and Deane,"167,799","166,468","1,331",5
+ualad09:East Hampshire,"115,608","113,394","2,214",0
+ualad09:Eastleigh,"125,199","124,266",933,1
+ualad09:Fareham,"111,581","110,125","1,456",0
+ualad09:Gosport,"82,622","81,766",856,0
+ualad09:Hart,"91,033","89,369","1,664",0
+ualad09:Havant,"120,684","119,422","1,262",0
+ualad09:New Forest,"176,462","173,491","2,971",0
+ualad09:Rushmoor,"93,807","91,890","1,917",3
+ualad09:Test Valley,"116,398","114,478","1,920",0
+ualad09:Winchester,"116,595","111,542","5,053",1
+ualad09:Ashford,"117,956","116,993",963,0
+ualad09:Canterbury,"151,145","142,562","8,583",1
+ualad09:Dartford,"97,365","96,376",989,0
+ualad09:Dover,"111,674","109,462","2,212",1
+ualad09:Gravesham,"101,720","100,976",744,1
+ualad09:Maidstone,"155,143","152,445","2,698",0
+ualad09:Sevenoaks,"114,893","113,622","1,271",0
+ualad09:Shepway,"107,969","106,151","1,818",0
+ualad09:Swale,"135,835","133,380","2,455",1
+ualad09:Thanet,"134,186","131,755","2,431",0
+ualad09:Tonbridge and Malling,"120,805","119,401","1,404",0
+ualad09:Tunbridge Wells,"115,049","112,622","2,427",0
+ualad09:Cherwell,"141,868","138,916","2,952",1
+ualad09:Oxford,"151,906","133,241","18,665",2
+ualad09:South Oxfordshire,"134,257","131,483","2,774",0
+ualad09:Vale of White Horse,"120,988","118,044","2,944",0
+ualad09:West Oxfordshire,"104,779","102,415","2,364",0
+ualad09:Elmbridge,"130,875","129,483","1,392",1
+ualad09:Epsom and Ewell,"75,102","74,026","1,076",1
+ualad09:Guildford,"137,183","130,920","6,263",1
+ualad09:Mole Valley,"85,375","83,985","1,390",0
+ualad09:Reigate and Banstead,"137,835","134,346","3,489",0
+ualad09:Runnymede,"80,510","77,346","3,164",0
+ualad09:Spelthorne,"95,598","94,837",761,0
+ualad09:Surrey Heath,"86,144","84,440","1,704",0
+ualad09:Tandridge,"82,998","80,916","2,082",0
+ualad09:Waverley,"121,572","117,219","4,353",0
+ualad09:Woking,"99,198","98,282",916,0
+ualad09:Adur,"61,182","60,424",758,0
+ualad09:Arun,"149,518","145,744","3,774",0
+ualad09:Chichester,"113,794","110,837","2,957",2
+ualad09:Crawley,"106,597","105,859",738,0
+ualad09:Horsham,"131,301","128,633","2,668",0
+ualad09:Mid Sussex,"139,860","137,291","2,569",0
+ualad09:Worthing,"104,640","102,752","1,888",2
+ualad09:Bath and North East Somerset,"176,016","169,977","6,039",0
+ualad09:Bournemouth,"183,491","179,138","4,353",1
+"ualad09:Bristol, City of","428,234","418,814","9,420",0
+ualad09:Cornwall,"532,273","523,432","8,841",6
+ualad09:Isles of Scilly,"2,203","2,123",80,0
+ualad09:North Somerset,"202,566","199,225","3,341",1
+ualad09:Plymouth,"256,384","251,100","5,284",2
+ualad09:Poole,"147,645","145,103","2,542",1
+ualad09:South Gloucestershire,"262,767","258,207","4,560",0
+ualad09:Swindon,"209,156","207,858","1,298",0
+ualad09:Torbay,"130,959","127,908","3,051",0
+ualad09:Wiltshire,"470,981","457,954","13,027",2
+ualad09:East Devon,"132,457","129,528","2,929",1
+ualad09:Exeter,"117,773","111,808","5,965",0
+ualad09:Mid Devon,"77,750","76,866",884,0
+ualad09:North Devon,"93,667","91,592","2,075",0
+ualad09:South Hams,"83,140","81,805","1,335",1
+ualad09:Teignbridge,"124,220","121,337","2,883",1
+ualad09:Torridge,"63,839","62,887",952,1
+ualad09:West Devon,"53,553","51,914","1,639",0
+ualad09:Christchurch,"47,752","47,298",454,0
+ualad09:East Dorset,"87,166","86,193",973,0
+ualad09:North Dorset,"68,583","65,572","3,011",0
+ualad09:Purbeck,"44,973","44,334",639,0
+ualad09:West Dorset,"99,264","96,596","2,668",0
+ualad09:Weymouth and Portland,"65,167","63,373","1,794",0
+ualad09:Cheltenham,"115,732","112,148","3,584",0
+ualad09:Cotswold,"82,881","81,319","1,562",1
+ualad09:Forest of Dean,"81,961","80,040","1,921",0
+ualad09:Gloucester,"121,688","119,955","1,733",0
+ualad09:Stroud,"112,779","111,503","1,276",0
+ualad09:Tewkesbury,"81,943","81,053",890,0
+ualad09:Mendip,"109,279","106,031","3,248",1
+ualad09:Sedgemoor,"114,588","113,056","1,532",0
+ualad09:South Somerset,"161,243","157,903","3,340",0
+ualad09:Taunton Deane,"110,187","106,852","3,335",0
+ualad09:West Somerset,"34,675","33,282","1,393",0
+ualad09:Anglesey,"69,751","68,941",810,0
+ualad09:Gwynedd,"121,874","117,974","3,900",0
+ualad09:Conwy,"115,228","112,531","2,697",6
+ualad09:Denbighshire,"93,734","92,483","1,251",0
+ualad09:Flintshire,"152,506","151,679",827,0
+ualad09:Wrexham,"134,844","133,244","1,600",0
+ualad09:Powys,"132,976","131,047","1,929",1
+ualad09:Ceredigion,"75,922","71,444","4,478",0
+ualad09:Pembrokeshire,"122,439","120,545","1,894",0
+ualad09:Carmarthenshire,"183,777","181,227","2,550",0
+ualad09:Swansea,"239,023","234,363","4,660",1
+ualad09:Neath Port Talbot,"139,812","138,682","1,130",0
+ualad09:Bridgend,"139,178","136,842","2,336",1
+ualad09:The Vale of Glamorgan,"126,336","124,259","2,077",0
+ualad09:Cardiff,"346,090","334,551","11,539",0
+"ualad09:Rhondda, Cynon, Taff","234,410","231,885","2,525",0
+ualad09:Merthyr Tydfil,"58,802","58,334",468,0
+ualad09:Caerphilly,"178,806","177,755","1,051",1
+ualad09:Blaenau Gwent,"69,814","69,239",575,0
+ualad09:Torfaen,"91,075","90,360",715,0
+ualad09:Monmouthshire,"91,323","89,694","1,629",0
+ualad09:Newport,"145,736","144,103","1,633",0

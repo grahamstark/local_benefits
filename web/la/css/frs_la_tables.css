@@ -1,0 +1,8 @@
+/* colours for comparison of FRS to LA data in out tables */
+.frs_vgt{ color: darkred; font-weight: bold; }
+.frs_gt{ color: darkred; }
+.frs_eq{ }
+.frs_vlt{ color: darkgreen; font-weight: bold; }
+.frs_lt{ color: darkgreen; }
+.message{ font-weight: bold; colour: #aa6666; font-size: 115%; }
+

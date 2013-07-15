@@ -1,0 +1,316 @@
+<?xml version="1.0"  encoding="ISO-8859-1"  standalone="no" ?>
+<!DOCTYPE database PUBLIC "http://virtual-worlds.biz/Mill"  "http://www.virtual-worlds.biz/dtds/mill.dtd">
+<database name="la_data">
+        <table name='target_candidates' description='One row for each Council/FRS household' >
+                <column name='id' type='INTEGER' primaryKey='true' />
+                <column name='code' type='CHAR' size='10' primaryKey='true' />
+                <column name='edition' type='INTEGER' primaryKey='true' />
+                <column name='frs_region' type='INTEGER' required='true' />
+                <column name='hb_total' type='REAL' />
+                <column name='hb_social_rented_sector' type='REAL' />
+                <column name='hb_private_rented_sector' type='REAL' />
+                <column name='hb_passported' type='REAL' />
+                <column name='hb_non_passported' type='REAL' />
+                <column name='ct_all' type='REAL' />
+                <column name='ct_passported' type='REAL' />
+                <column name='ct_non_passported' type='REAL' />
+                <column name='genders_all_usual_residents' type='REAL' />
+                <column name='genders_males' type='REAL' />
+                <column name='genders_females' type='REAL' />
+                <column name='genders_lives_in_a_household' type='REAL' />
+                <column name='genders_lives_in_a_communal_establishment' type='REAL' />
+                <column name='genders_schoolchild_or_student_non_term_time_address' type='REAL' />
+                <column name='age_ranges_all_categories_age' type='REAL' />
+                <column name='age_ranges_age_under_1' type='REAL' />
+                <column name='age_ranges_age_1' type='REAL' />
+                <column name='age_ranges_age_2' type='REAL' />
+                <column name='age_ranges_age_3' type='REAL' />
+                <column name='age_ranges_age_4' type='REAL' />
+                <column name='age_ranges_age_5' type='REAL' />
+                <column name='age_ranges_age_6' type='REAL' />
+                <column name='age_ranges_age_7' type='REAL' />
+                <column name='age_ranges_age_8' type='REAL' />
+                <column name='age_ranges_age_9' type='REAL' />
+                <column name='age_ranges_age_10' type='REAL' />
+                <column name='age_ranges_age_11' type='REAL' />
+                <column name='age_ranges_age_12' type='REAL' />
+                <column name='age_ranges_age_13' type='REAL' />
+                <column name='age_ranges_age_14' type='REAL' />
+                <column name='age_ranges_age_15' type='REAL' />
+                <column name='age_ranges_age_16' type='REAL' />
+                <column name='age_ranges_age_17' type='REAL' />
+                <column name='age_ranges_age_18' type='REAL' />
+                <column name='age_ranges_age_19' type='REAL' />
+                <column name='age_ranges_age_20' type='REAL' />
+                <column name='age_ranges_age_21' type='REAL' />
+                <column name='age_ranges_age_22' type='REAL' />
+                <column name='age_ranges_age_23' type='REAL' />
+                <column name='age_ranges_age_24' type='REAL' />
+                <column name='age_ranges_age_25' type='REAL' />
+                <column name='age_ranges_age_26' type='REAL' />
+                <column name='age_ranges_age_27' type='REAL' />
+                <column name='age_ranges_age_28' type='REAL' />
+                <column name='age_ranges_age_29' type='REAL' />
+                <column name='age_ranges_age_30' type='REAL' />
+                <column name='age_ranges_age_31' type='REAL' />
+                <column name='age_ranges_age_32' type='REAL' />
+                <column name='age_ranges_age_33' type='REAL' />
+                <column name='age_ranges_age_34' type='REAL' />
+                <column name='age_ranges_age_35' type='REAL' />
+                <column name='age_ranges_age_36' type='REAL' />
+                <column name='age_ranges_age_37' type='REAL' />
+                <column name='age_ranges_age_38' type='REAL' />
+                <column name='age_ranges_age_39' type='REAL' />
+                <column name='age_ranges_age_40' type='REAL' />
+                <column name='age_ranges_age_41' type='REAL' />
+                <column name='age_ranges_age_42' type='REAL' />
+                <column name='age_ranges_age_43' type='REAL' />
+                <column name='age_ranges_age_44' type='REAL' />
+                <column name='age_ranges_age_45' type='REAL' />
+                <column name='age_ranges_age_46' type='REAL' />
+                <column name='age_ranges_age_47' type='REAL' />
+                <column name='age_ranges_age_48' type='REAL' />
+                <column name='age_ranges_age_49' type='REAL' />
+                <column name='age_ranges_age_50' type='REAL' />
+                <column name='age_ranges_age_51' type='REAL' />
+                <column name='age_ranges_age_52' type='REAL' />
+                <column name='age_ranges_age_53' type='REAL' />
+                <column name='age_ranges_age_54' type='REAL' />
+                <column name='age_ranges_age_55' type='REAL' />
+                <column name='age_ranges_age_56' type='REAL' />
+                <column name='age_ranges_age_57' type='REAL' />
+                <column name='age_ranges_age_58' type='REAL' />
+                <column name='age_ranges_age_59' type='REAL' />
+                <column name='age_ranges_age_60' type='REAL' />
+                <column name='age_ranges_age_61' type='REAL' />
+                <column name='age_ranges_age_62' type='REAL' />
+                <column name='age_ranges_age_63' type='REAL' />
+                <column name='age_ranges_age_64' type='REAL' />
+                <column name='age_ranges_age_65' type='REAL' />
+                <column name='age_ranges_age_66' type='REAL' />
+                <column name='age_ranges_age_67' type='REAL' />
+                <column name='age_ranges_age_68' type='REAL' />
+                <column name='age_ranges_age_69' type='REAL' />
+                <column name='age_ranges_age_70' type='REAL' />
+                <column name='age_ranges_age_71' type='REAL' />
+                <column name='age_ranges_age_72' type='REAL' />
+                <column name='age_ranges_age_73' type='REAL' />
+                <column name='age_ranges_age_74' type='REAL' />
+                <column name='age_ranges_age_75' type='REAL' />
+                <column name='age_ranges_age_76' type='REAL' />
+                <column name='age_ranges_age_77' type='REAL' />
+                <column name='age_ranges_age_78' type='REAL' />
+                <column name='age_ranges_age_79' type='REAL' />
+                <column name='age_ranges_age_80' type='REAL' />
+                <column name='age_ranges_age_81' type='REAL' />
+                <column name='age_ranges_age_82' type='REAL' />
+                <column name='age_ranges_age_83' type='REAL' />
+                <column name='age_ranges_age_84' type='REAL' />
+                <column name='age_ranges_age_85' type='REAL' />
+                <column name='age_ranges_age_86' type='REAL' />
+                <column name='age_ranges_age_87' type='REAL' />
+                <column name='age_ranges_age_88' type='REAL' />
+                <column name='age_ranges_age_89' type='REAL' />
+                <column name='age_ranges_age_90' type='REAL' />
+                <column name='age_ranges_age_91' type='REAL' />
+                <column name='age_ranges_age_92' type='REAL' />
+                <column name='age_ranges_age_93' type='REAL' />
+                <column name='age_ranges_age_94' type='REAL' />
+                <column name='age_ranges_age_95' type='REAL' />
+                <column name='age_ranges_age_96' type='REAL' />
+                <column name='age_ranges_age_97' type='REAL' />
+                <column name='age_ranges_age_98' type='REAL' />
+                <column name='age_ranges_age_99' type='REAL' />
+                <column name='age_ranges_age_100_and_over' type='REAL' />
+                <column name='accom_all_categories_accommodation_type' type='REAL' />
+                <column name='accom_unshared_total' type='REAL' />
+                <column name='accom_unshared_whole_house_or_bungalow_total' type='REAL' />
+                <column name='accom_unshared_whole_house_or_bungalow_detached' type='REAL' />
+                <column name='accom_unshared_whole_house_or_bungalow_semi_detached' type='REAL' />
+                <column name='accom_unshared_whole_house_or_bungalow_terraced' type='REAL' />
+                <column name='accom_unshared_flat_maisonette_or_apartment_total' type='REAL' />
+                <column name='accom_unshared_flat_etc_purpose_built_flats_or_tenement' type='REAL' />
+                <column name='accom_unshared_flat_etc_part_of_a_converted_or_shared_house' type='REAL' />
+                <column name='accom_unshared_flat_etc_in_commercial_building' type='REAL' />
+                <column name='accom_unshared_caravan_etc' type='REAL' />
+                <column name='accom_shared' type='REAL' />
+                <column name='ec_act_all_categories_economic_activity' type='REAL' />
+                <column name='ec_act_active_total' type='REAL' />
+                <column name='ec_act_active_employee_part_time' type='REAL' />
+                <column name='ec_act_active_employee_full_time' type='REAL' />
+                <column name='ec_act_active_self_employed_with_employees_part_time' type='REAL' />
+                <column name='ec_act_active_self_employed_with_employees_full_time' type='REAL' />
+                <column name='ec_act_active_self_employed_without_employees_part_time' type='REAL' />
+                <column name='ec_act_active_self_employed_without_employees_full_time' type='REAL' />
+                <column name='ec_act_active_unemployed' type='REAL' />
+                <column name='ec_act_active_full_time_student' type='REAL' />
+                <column name='ec_act_inactive_total' type='REAL' />
+                <column name='ec_act_inactive_retired' type='REAL' />
+                <column name='ec_act_inactive_student_including_full_time_students' type='REAL' />
+                <column name='ec_act_inactive_looking_after_home_or_family' type='REAL' />
+                <column name='ec_act_inactive_long_term_sick_or_disabled' type='REAL' />
+                <column name='ec_act_inactive_other' type='REAL' />
+                <column name='ethgrp_all_categories_ethnic_group' type='REAL' />
+                <column name='ethgrp_white' type='REAL' />
+                <column name='ethgrp_white_english_welsh_scottish_northern_irish_british' type='REAL' />
+                <column name='ethgrp_white_irish' type='REAL' />
+                <column name='ethgrp_white_gypsy_or_irish_traveller' type='REAL' />
+                <column name='ethgrp_white_other_white' type='REAL' />
+                <column name='ethgrp_mixed' type='REAL' />
+                <column name='ethgrp_mixed_multiple_ethnic_group_white_and_black_caribbean' type='REAL' />
+                <column name='ethgrp_mixed_multiple_ethnic_group_white_and_black_african' type='REAL' />
+                <column name='ethgrp_mixed_multiple_ethnic_group_white_and_asian' type='REAL' />
+                <column name='ethgrp_mixed_multiple_ethnic_group_other_mixed' type='REAL' />
+                <column name='ethgrp_asian' type='REAL' />
+                <column name='ethgrp_asian_asian_british_indian' type='REAL' />
+                <column name='ethgrp_asian_asian_british_pakistani' type='REAL' />
+                <column name='ethgrp_asian_asian_british_bangladeshi' type='REAL' />
+                <column name='ethgrp_asian_asian_british_chinese' type='REAL' />
+                <column name='ethgrp_asian_asian_british_other_asian' type='REAL' />
+                <column name='ethgrp_black' type='REAL' />
+                <column name='ethgrp_black_african_caribbean_black_british_african' type='REAL' />
+                <column name='ethgrp_black_african_caribbean_black_british_caribbean' type='REAL' />
+                <column name='ethgrp_black_african_caribbean_black_british_other_black' type='REAL' />
+                <column name='ethgrp_other' type='REAL' />
+                <column name='ethgrp_other_ethnic_group_arab' type='REAL' />
+                <column name='ethgrp_other_ethnic_group_any_other_ethnic_group' type='REAL' />
+                <column name='hcomp_all_categories_household_composition' type='REAL' />
+                <column name='hcomp_one_person_household_total' type='REAL' />
+                <column name='hcomp_one_person_household_aged_65_and_over' type='REAL' />
+                <column name='hcomp_one_person_household_other' type='REAL' />
+                <column name='hcomp_one_family_only_total' type='REAL' />
+                <column name='hcomp_one_family_only_all_aged_65_and_over' type='REAL' />
+                <column name='hcomp_one_family_only_married_cple_total' type='REAL' />
+                <column name='hcomp_one_family_only_married_cple_no_kids' type='REAL' />
+                <column name='hcomp_one_family_only_married_cple_one_dep_child' type='REAL' />
+                <column name='hcomp_one_family_only_married_cple_two_or_more_dep_kids' type='REAL' />
+                <column name='hcomp_one_family_only_married_cple_all_kids_non_dep' type='REAL' />
+                <column name='hcomp_one_family_only_same_sex_civ_part_cple_total' type='REAL' />
+                <column name='hcomp_one_family_only_same_sex_civ_part_cple_no_kids' type='REAL' />
+                <column name='hcomp_same_sex_civ_part_cple_one_dep_child' type='REAL' />
+                <column name='hcomp_same_sex_civ_part_cple_two_plus_dep_kids' type='REAL' />
+                <column name='hcomp_one_family_only_same_sex_civ_part_cple_all_kids_non_dep' type='REAL' />
+                <column name='hcomp_one_family_only_cohabiting_cple_total' type='REAL' />
+                <column name='hcomp_one_family_only_cohabiting_cple_no_kids' type='REAL' />
+                <column name='hcomp_one_family_only_cohabiting_cple_one_dep_child' type='REAL' />
+                <column name='hcomp_one_family_only_cohabiting_cple_two_or_more_dep_kids' type='REAL' />
+                <column name='hcomp_one_family_only_cohabiting_cple_all_kids_non_dep' type='REAL' />
+                <column name='hcomp_one_family_only_lone_parent_total' type='REAL' />
+                <column name='hcomp_one_family_only_lone_parent_one_dep_child' type='REAL' />
+                <column name='hcomp_one_family_only_lone_parent_two_or_more_dep_kids' type='REAL' />
+                <column name='hcomp_one_family_only_lone_parent_all_kids_non_dep' type='REAL' />
+                <column name='hcomp_other_total' type='REAL' />
+                <column name='hcomp_other_with_one_dep_child' type='REAL' />
+                <column name='hcomp_other_with_two_or_more_dep_kids' type='REAL' />
+                <column name='hcomp_other_all_full_time_students' type='REAL' />
+                <column name='hcomp_other_all_aged_65_and_over' type='REAL' />
+                <column name='hcomp_other_other' type='REAL' />
+                <column name='number_of_rooms_all_categories_number_of_rooms' type='REAL' />
+                <column name='number_of_rooms_1_room' type='REAL' />
+                <column name='number_of_rooms_2_rooms' type='REAL' />
+                <column name='number_of_rooms_3_rooms' type='REAL' />
+                <column name='number_of_rooms_4_rooms' type='REAL' />
+                <column name='number_of_rooms_5_rooms' type='REAL' />
+                <column name='number_of_rooms_6_rooms' type='REAL' />
+                <column name='number_of_rooms_7_rooms' type='REAL' />
+                <column name='number_of_rooms_8_rooms' type='REAL' />
+                <column name='number_of_rooms_9_or_more_rooms' type='REAL' />
+                <column name='residence_all_categories_residence_type' type='REAL' />
+                <column name='residence_lives_in_a_household' type='REAL' />
+                <column name='residence_lives_in_a_communal_establishment' type='REAL' />
+                <column name='residence_communal_establishments_with_persons_sleeping_rough' type='REAL' />
+                <column name='tenure_all_categories_tenure' type='REAL' />
+                <column name='tenure_owned_total' type='REAL' />
+                <column name='tenure_owned_owned_outright' type='REAL' />
+                <column name='tenure_owned_owned_with_a_mortgage_or_loan' type='REAL' />
+                <column name='tenure_shared_ownership_part_owned_and_part_rented' type='REAL' />
+                <column name='tenure_social_rented_total' type='REAL' />
+                <column name='tenure_social_rented_rented_from_council_local_authority' type='REAL' />
+                <column name='tenure_social_rented_other_social_rented' type='REAL' />
+                <column name='tenure_private_rented_total' type='REAL' />
+                <column name='tenure_private_rented_private_landlord_or_letting_agency' type='REAL' />
+                <column name='tenure_private_rented_employer_of_a_household_member' type='REAL' />
+                <column name='tenure_private_rented_relative_or_friend_of_household' type='REAL' />
+                <column name='tenure_private_rented_other' type='REAL' />
+                <column name='tenure_living_rent_free' type='REAL' />
+                <column name='occupation_all_categories_occupation' type='REAL' />
+                <column name='occupation_1_managers_directors_and_senior_officials' type='REAL' />
+                <column name='occupation_2_professional_occupations' type='REAL' />
+                <column name='occupation_3_associate_professional_and_technical_occupations' type='REAL' />
+                <column name='occupation_4_administrative_and_secretarial_occupations' type='REAL' />
+                <column name='occupation_5_skilled_trades_occupations' type='REAL' />
+                <column name='occupation_6_caring_leisure_and_other_service_occupations' type='REAL' />
+                <column name='occupation_7_sales_and_customer_service_occupations' type='REAL' />
+                <column name='occupation_8_process_plant_and_machine_operatives' type='REAL' />
+                <column name='occupation_9_elementary_occupations' type='REAL' />
+                <column name='income_support_people_claiming_benefit' type='REAL' />
+                <column name='income_support_average_weekly_payment' type='REAL' />
+                <column name='jsa_total' type='REAL' />
+                <column name='pension_credits_number_of_claimants' type='REAL' />
+                <column name='pension_credits_number_of_beneficiaries' type='REAL' />
+                <column name='pension_credits_average_weekly_payment' type='REAL' />
+                <column name='out_of_work_families' type='REAL' />
+                <column name='out_of_work_children' type='REAL' />
+                <column name='wtc_and_ctc_families' type='REAL' />
+                <column name='wtc_and_ctc_children' type='REAL' />
+                <column name='ctc_only_families' type='REAL' />
+                <column name='ctc_only_children' type='REAL' />
+                <column name='childcare_element' type='REAL' />
+                <column name='credits_no_children' type='REAL' />
+                <column name='credits_total_families' type='REAL' />
+        </table>
+
+        
+        <!-- massive, silly, normalisation overkill -->
+        
+        <table name='las'>
+                <column name='code' type='CHAR' size='10' primaryKey='true' />
+                <column name='name' type='CHAR' size='60' />
+        </table>
+        
+        <table name='country'>
+                <column name='name' type='CHAR' size='30' primaryKey='true'/>
+        </table>
+        
+        <table name='government_region'>
+                <!-- alternate key -->
+                <column name='name' type='CHAR' size='30' required='true'/>
+                <column name='frs_region_code' type='INTEGER' primaryKey='true'/>
+                <unique>
+                        <unique-column name='name'/>
+                </unique>
+        </table>
+        
+        <table name='las_in_region'>
+                
+                <column name='lacode' type='CHAR' size='10' primaryKey='true'/>
+                <column name='region'  type='CHAR' size='30' />
+                <column name='frs_region_code'  type='INTEGER' primaryKey='true'/>
+                
+                <foreign-key foreignTable="las" >
+                        <reference foreign="code" local="lacode" onDelete='none' />
+                </foreign-key>
+                
+                <foreign-key foreignTable="government_region">
+                        <reference foreign="frs_region_code" local="frs_region_code"/>
+                </foreign-key>
+                <foreign-key foreignTable="government_region">
+                        <reference foreign="name" local="region"/>
+                </foreign-key>
+        </table>
+        
+        <table name='regions_in_country'>
+                <column name='country_name' type='CHAR' size='30' primaryKey='true'/>
+                <column name='region_name' type='CHAR' size='30' />
+                <column name='frs_region_code'  type='INTEGER' primaryKey='true'/>
+                <foreign-key foreignTable="government_region">
+                        <reference foreign="frs_region_code" local="frs_region_code"/>
+                </foreign-key>
+                <foreign-key foreignTable="country">
+                        <reference foreign="name" local="country_name"/>
+                </foreign-key>
+        </table>
+        
+
+</database>
+

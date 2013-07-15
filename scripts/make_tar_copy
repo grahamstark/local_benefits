@@ -1,0 +1,13 @@
+cd model/
+tar zcvf ~/archives/frs_to_la_reweighting.tgz . \
+  --exclude='.svn' \
+  --exclude '.~loc*' \
+  --exclude='data/ons/*' \
+  --exclude='maps' \
+  --exclude='logs/*' \
+  --exclude='output/*' \
+  --exclude='*.doc' \
+  --exclude='*.xls' \
+  --exclude='bin/*' \
+  --exclude='tmp/*'
+
