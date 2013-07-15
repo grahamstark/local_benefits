@@ -38,7 +38,7 @@ The directories contain:
 data/ - contains downloaded aggregate census data for Local Authorities, and
 these dumped as CSV files.
 
-scripts/ - some code in [Ruby](http://ruby.org) that parses the CSV files into
+scripts/ - some code in [Ruby](http://ruby-lang.org) that parses the CSV files into
 enumerated types and data declarations for use in the Ada code.
 
 src/ Ada Source files (see below)
