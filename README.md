@@ -28,8 +28,7 @@ somewhat (quite broad age groups and so on). The code can produce weights for
 the whole FRS, or for samples of it, for instance the LA's enclosing Government
 Region (reweighting all Londoners to look like Lewisham or Westminster.)
 
-It works quite well still needs a lot of work. I want to add benefit counts and
-a few other things to the target variables. And I'd still need to scale income
+It works quite well still needs a lot of work. I still need to scale income
 and housing cost variables up - Westminster has higher average wages than
 Doncaster both because of because it has more bankers, and because Westminster
 bankers are paid more than Doncaster ones. Likewise for housing costs. But that
@@ -50,44 +49,9 @@ src/ Ada Source files (see below)
 tests/ test driver code - at present, the only way to drive it is through the
 test code.
 
-You need [Tax Benefit Model Components](http://virtual-worlds.biz/downloads/),
+You need [Tax Benefit Model Components](https://github.com/tax_benefit_model_components/),
 and the dependencies described in that for the Ada code. You'd need to follow
 the instructions there on creating raw FRS files - no chance, probably...
 
-The file src/la_reweighter.ads contains 'public' definitions of local
-authorities, target variables and regions, as well as the public signature of
-the reweighting procedure.
-
-src/la_reweighter.adb contains the actual code. Reweighting works in two passes,
-one to generate 'flat' files of FRS data matching the Local Authority targets,
-and one to actually generate the weights. The code can be called to generate
-data and weights for the whole sample, England and Wales, England Only, and by
-Government Region.
-
 tests/ contains a AUnit V3 Test Suite, basically just a driver for the generator
 at the moment.
-
-It's a bit of a mess, relying on multiple passes through the FRS dataset where
-only 1 would do and requireing a different run each time the target definitions
-change. Also, not many comments.
-
-Better scheme would be:
-
- * make a database from FRS with everything that we have counts for for the LAs
- * construct a dataset on the fly using the same mappings for the LA and the FRS dataset
- * have a simple driver routines
- * create_frs_subset [SQL Query] [outfile]
- * create_weights [dataset] [targets] [settings_file]
- 
-outputs/ needs a directory structure like:
-
-   output/
-    ├── [Name of your Dataset]
-    │   ├── created_datasets
-    │   └── weights
-    │   ├── england
-    │   ├── england_and_wales
-    │   ├── government_region
-    │   └── whole_sample
-
-This archive doesn't contain the actual generated weights. 
