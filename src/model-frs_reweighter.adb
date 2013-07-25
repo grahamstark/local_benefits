@@ -187,7 +187,6 @@ package body Model.FRS_Reweighter is
       Connection_Pool.Return_Connection( conn );
       return uw;      
    end Get_Uniform_Weight;
-
    
    function Create_SQL( 
       sample                : Weighting_Sample_Type;
