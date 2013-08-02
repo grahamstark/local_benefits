@@ -63,7 +63,9 @@
                <li><a href='?code=E08000007'>Stockport</a></li>
                <li><a href='?code=E08000008'>Tameside</a></li>
        </ul>
-       <ul>Tra - 
+       </li>
+       <li><a href='#'>Tra -</a> 
+       <ul>
                <li><a href='?code=E08000009'>Trafford</a></li>
                <li><a href='?code=E06000007'>Warrington</a></li>
                <li><a href='?code=E07000127'>West Lancashire</a></li>
@@ -71,6 +73,8 @@
                <li><a href='?code=E08000015'>Wirral</a></li>
                <li><a href='?code=E07000128'>Wyre</a></li>
        </li>
+       
+    </ul>
     </ul>
    </li>
 <li> Yorkshire and The Humber      
@@ -163,6 +167,8 @@
        <li><a href='?code=E07000156'>Wellingborough</a></li>
        <li><a href='?code=E07000142'>West Lindsey</a></li>
    </ul>
+  </li>
+  </ul>
   </li>
    <li>West Midlands
      <ul>
@@ -279,6 +285,8 @@
        <li><a href='?code=E07000104'>Welwyn Hatfield</a></li>
     </ul>
    </li>
+   </ul>
+   </li>
 <li> London
     <ul>
        <li>Bar-Enf
@@ -325,6 +333,8 @@
        <li><a href='?code=E09000032'>Wandsworth</a></li>
        <li><a href='?code=E09000033'>Westminster</a></li>
     </ul>
+   </li>
+   </ul>
    </li>
 <li>South East 
     <ul>
@@ -428,7 +438,7 @@
 <li>South
     <ul>
        <li>Bat-Eas
-       </li>
+       <ul>
        <li><a href='?code=E06000022'>Bath and North East Somerset</a></li>
        <li><a href='?code=E06000028'>Bournemouth</a></li>
        <li><a href='?code=E06000023'>Bristol City of</a></li>
@@ -479,6 +489,8 @@
        <li><a href='?code=E07000053'>Weymouth and Portland</a></li>
        <li><a href='?code=E06000054'>Wiltshire</a></li>
     </ul>
+   </li>
+   </ul>
    </li>
   <li>Wales
     <ul>
